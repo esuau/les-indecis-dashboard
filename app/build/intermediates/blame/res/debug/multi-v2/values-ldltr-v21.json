@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/nassimhammadi/Downloads/Sending-and-Receiving-Data-with-Bluetooth-master/Bluetooth-Communication/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/nassimhammadi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/6e268ffca56652f822b2385d9c557be0/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}
