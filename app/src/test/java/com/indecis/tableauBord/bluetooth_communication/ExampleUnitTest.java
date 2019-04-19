@@ -1,4 +1,4 @@
-package com.example.user.bluetooth_communication;
+package com.indecis.tableauBord.bluetooth_communication;
 
 import org.junit.Test;
 

@@ -1988,86 +1988,87 @@ public final class R {
     public static final int btnONOFF=0x7f070018;
     public static final int btnSend=0x7f070019;
     public static final int btnStartConnection=0x7f07001a;
-    public static final int buttonPanel=0x7f07001b;
-    public static final int cancel_action=0x7f07001c;
-    public static final int checkbox=0x7f07001d;
-    public static final int chronometer=0x7f07001e;
-    public static final int collapseActionView=0x7f07001f;
-    public static final int contentPanel=0x7f070020;
-    public static final int custom=0x7f070021;
-    public static final int customPanel=0x7f070022;
-    public static final int decor_content_parent=0x7f070023;
-    public static final int default_activity_button=0x7f070024;
-    public static final int disableHome=0x7f070025;
-    public static final int editText=0x7f070026;
-    public static final int edit_query=0x7f070027;
-    public static final int end=0x7f070028;
-    public static final int end_padder=0x7f070029;
-    public static final int expand_activities_button=0x7f07002a;
-    public static final int expanded_menu=0x7f07002b;
-    public static final int home=0x7f07002c;
-    public static final int homeAsUp=0x7f07002d;
-    public static final int icon=0x7f07002e;
-    public static final int ifRoom=0x7f07002f;
-    public static final int image=0x7f070030;
-    public static final int info=0x7f070031;
-    public static final int line1=0x7f070032;
-    public static final int line3=0x7f070033;
-    public static final int listMode=0x7f070034;
-    public static final int list_item=0x7f070035;
-    public static final int lvNewDevices=0x7f070036;
-    public static final int media_actions=0x7f070037;
-    public static final int middle=0x7f070038;
-    public static final int multiply=0x7f070039;
-    public static final int never=0x7f07003a;
-    public static final int none=0x7f07003b;
-    public static final int normal=0x7f07003c;
-    public static final int parentPanel=0x7f07003d;
-    public static final int progress_circular=0x7f07003e;
-    public static final int progress_horizontal=0x7f07003f;
-    public static final int radio=0x7f070040;
-    public static final int screen=0x7f070041;
-    public static final int scrollIndicatorDown=0x7f070042;
-    public static final int scrollIndicatorUp=0x7f070043;
-    public static final int scrollView=0x7f070044;
-    public static final int search_badge=0x7f070045;
-    public static final int search_bar=0x7f070046;
-    public static final int search_button=0x7f070047;
-    public static final int search_close_btn=0x7f070048;
-    public static final int search_edit_frame=0x7f070049;
-    public static final int search_go_btn=0x7f07004a;
-    public static final int search_mag_icon=0x7f07004b;
-    public static final int search_plate=0x7f07004c;
-    public static final int search_src_text=0x7f07004d;
-    public static final int search_voice_btn=0x7f07004e;
-    public static final int select_dialog_listview=0x7f07004f;
-    public static final int shortcut=0x7f070050;
-    public static final int showCustom=0x7f070051;
-    public static final int showHome=0x7f070052;
-    public static final int showTitle=0x7f070053;
-    public static final int spacer=0x7f070054;
-    public static final int split_action_bar=0x7f070055;
-    public static final int src_atop=0x7f070056;
-    public static final int src_in=0x7f070057;
-    public static final int src_over=0x7f070058;
-    public static final int status_bar_latest_event_content=0x7f070059;
-    public static final int submenuarrow=0x7f07005a;
-    public static final int submit_area=0x7f07005b;
-    public static final int tabMode=0x7f07005c;
-    public static final int text=0x7f07005d;
-    public static final int text2=0x7f07005e;
-    public static final int textSpacerNoButtons=0x7f07005f;
-    public static final int time=0x7f070060;
-    public static final int title=0x7f070061;
-    public static final int title_template=0x7f070062;
-    public static final int top=0x7f070063;
-    public static final int topPanel=0x7f070064;
-    public static final int tvDeviceAddress=0x7f070065;
-    public static final int tvDeviceName=0x7f070066;
-    public static final int up=0x7f070067;
-    public static final int useLogo=0x7f070068;
-    public static final int withText=0x7f070069;
-    public static final int wrap_content=0x7f07006a;
+    public static final int btnStopCourse=0x7f07001b;
+    public static final int buttonPanel=0x7f07001c;
+    public static final int cancel_action=0x7f07001d;
+    public static final int checkbox=0x7f07001e;
+    public static final int chronometer=0x7f07001f;
+    public static final int collapseActionView=0x7f070020;
+    public static final int contentPanel=0x7f070021;
+    public static final int custom=0x7f070022;
+    public static final int customPanel=0x7f070023;
+    public static final int decor_content_parent=0x7f070024;
+    public static final int default_activity_button=0x7f070025;
+    public static final int disableHome=0x7f070026;
+    public static final int editText=0x7f070027;
+    public static final int edit_query=0x7f070028;
+    public static final int end=0x7f070029;
+    public static final int end_padder=0x7f07002a;
+    public static final int expand_activities_button=0x7f07002b;
+    public static final int expanded_menu=0x7f07002c;
+    public static final int home=0x7f07002d;
+    public static final int homeAsUp=0x7f07002e;
+    public static final int icon=0x7f07002f;
+    public static final int ifRoom=0x7f070030;
+    public static final int image=0x7f070031;
+    public static final int info=0x7f070032;
+    public static final int line1=0x7f070033;
+    public static final int line3=0x7f070034;
+    public static final int listMode=0x7f070035;
+    public static final int list_item=0x7f070036;
+    public static final int lvNewDevices=0x7f070037;
+    public static final int media_actions=0x7f070038;
+    public static final int middle=0x7f070039;
+    public static final int multiply=0x7f07003a;
+    public static final int never=0x7f07003b;
+    public static final int none=0x7f07003c;
+    public static final int normal=0x7f07003d;
+    public static final int parentPanel=0x7f07003e;
+    public static final int progress_circular=0x7f07003f;
+    public static final int progress_horizontal=0x7f070040;
+    public static final int radio=0x7f070041;
+    public static final int screen=0x7f070042;
+    public static final int scrollIndicatorDown=0x7f070043;
+    public static final int scrollIndicatorUp=0x7f070044;
+    public static final int scrollView=0x7f070045;
+    public static final int search_badge=0x7f070046;
+    public static final int search_bar=0x7f070047;
+    public static final int search_button=0x7f070048;
+    public static final int search_close_btn=0x7f070049;
+    public static final int search_edit_frame=0x7f07004a;
+    public static final int search_go_btn=0x7f07004b;
+    public static final int search_mag_icon=0x7f07004c;
+    public static final int search_plate=0x7f07004d;
+    public static final int search_src_text=0x7f07004e;
+    public static final int search_voice_btn=0x7f07004f;
+    public static final int select_dialog_listview=0x7f070050;
+    public static final int shortcut=0x7f070051;
+    public static final int showCustom=0x7f070052;
+    public static final int showHome=0x7f070053;
+    public static final int showTitle=0x7f070054;
+    public static final int spacer=0x7f070055;
+    public static final int split_action_bar=0x7f070056;
+    public static final int src_atop=0x7f070057;
+    public static final int src_in=0x7f070058;
+    public static final int src_over=0x7f070059;
+    public static final int status_bar_latest_event_content=0x7f07005a;
+    public static final int submenuarrow=0x7f07005b;
+    public static final int submit_area=0x7f07005c;
+    public static final int tabMode=0x7f07005d;
+    public static final int text=0x7f07005e;
+    public static final int text2=0x7f07005f;
+    public static final int textSpacerNoButtons=0x7f070060;
+    public static final int time=0x7f070061;
+    public static final int title=0x7f070062;
+    public static final int title_template=0x7f070063;
+    public static final int top=0x7f070064;
+    public static final int topPanel=0x7f070065;
+    public static final int tvDeviceAddress=0x7f070066;
+    public static final int tvDeviceName=0x7f070067;
+    public static final int up=0x7f070068;
+    public static final int useLogo=0x7f070069;
+    public static final int withText=0x7f07006a;
+    public static final int wrap_content=0x7f07006b;
   }
   public static final class integer {
     public static final int abc_config_activityDefaultDur=0x7f080000;
@@ -2498,35 +2499,35 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionBar_background com.example.user.bluetooth_communication:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundSplit com.example.user.bluetooth_communication:backgroundSplit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundStacked com.example.user.bluetooth_communication:backgroundStacked}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.example.user.bluetooth_communication:contentInsetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.example.user.bluetooth_communication:contentInsetEndWithActions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.example.user.bluetooth_communication:contentInsetLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetRight com.example.user.bluetooth_communication:contentInsetRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStart com.example.user.bluetooth_communication:contentInsetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.example.user.bluetooth_communication:contentInsetStartWithNavigation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.example.user.bluetooth_communication:customNavigationLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_displayOptions com.example.user.bluetooth_communication:displayOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_divider com.example.user.bluetooth_communication:divider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_elevation com.example.user.bluetooth_communication:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_height com.example.user.bluetooth_communication:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.example.user.bluetooth_communication:hideOnContentScroll}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.example.user.bluetooth_communication:homeAsUpIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_homeLayout com.example.user.bluetooth_communication:homeLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_icon com.example.user.bluetooth_communication:icon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.example.user.bluetooth_communication:indeterminateProgressStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_itemPadding com.example.user.bluetooth_communication:itemPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_logo com.example.user.bluetooth_communication:logo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_navigationMode com.example.user.bluetooth_communication:navigationMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_popupTheme com.example.user.bluetooth_communication:popupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarPadding com.example.user.bluetooth_communication:progressBarPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarStyle com.example.user.bluetooth_communication:progressBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitle com.example.user.bluetooth_communication:subtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.example.user.bluetooth_communication:subtitleTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_title com.example.user.bluetooth_communication:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_titleTextStyle com.example.user.bluetooth_communication:titleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_background com.indecis.tableauBord.bluetooth_communication:background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundSplit com.indecis.tableauBord.bluetooth_communication:backgroundSplit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundStacked com.indecis.tableauBord.bluetooth_communication:backgroundStacked}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.indecis.tableauBord.bluetooth_communication:contentInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.indecis.tableauBord.bluetooth_communication:contentInsetEndWithActions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.indecis.tableauBord.bluetooth_communication:contentInsetLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetRight com.indecis.tableauBord.bluetooth_communication:contentInsetRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStart com.indecis.tableauBord.bluetooth_communication:contentInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.indecis.tableauBord.bluetooth_communication:contentInsetStartWithNavigation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.indecis.tableauBord.bluetooth_communication:customNavigationLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_displayOptions com.indecis.tableauBord.bluetooth_communication:displayOptions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_divider com.indecis.tableauBord.bluetooth_communication:divider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_elevation com.indecis.tableauBord.bluetooth_communication:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_height com.indecis.tableauBord.bluetooth_communication:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.indecis.tableauBord.bluetooth_communication:hideOnContentScroll}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.indecis.tableauBord.bluetooth_communication:homeAsUpIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_homeLayout com.indecis.tableauBord.bluetooth_communication:homeLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_icon com.indecis.tableauBord.bluetooth_communication:icon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.indecis.tableauBord.bluetooth_communication:indeterminateProgressStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_itemPadding com.indecis.tableauBord.bluetooth_communication:itemPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_logo com.indecis.tableauBord.bluetooth_communication:logo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_navigationMode com.indecis.tableauBord.bluetooth_communication:navigationMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_popupTheme com.indecis.tableauBord.bluetooth_communication:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarPadding com.indecis.tableauBord.bluetooth_communication:progressBarPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarStyle com.indecis.tableauBord.bluetooth_communication:progressBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitle com.indecis.tableauBord.bluetooth_communication:subtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.indecis.tableauBord.bluetooth_communication:subtitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_title com.indecis.tableauBord.bluetooth_communication:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_titleTextStyle com.indecis.tableauBord.bluetooth_communication:titleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionBar_background
      * @see #ActionBar_backgroundSplit
@@ -2569,7 +2570,7 @@ public final class R {
         0x7f0200d0
       };
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#background}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#background}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2577,11 +2578,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:background
+     * @attr name com.indecis.tableauBord.bluetooth_communication:background
      */
     public static final int ActionBar_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#backgroundSplit}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2592,11 +2593,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:backgroundSplit
+     * @attr name com.indecis.tableauBord.bluetooth_communication:backgroundSplit
      */
     public static final int ActionBar_backgroundSplit=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#backgroundStacked}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#backgroundStacked}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2607,11 +2608,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:backgroundStacked
+     * @attr name com.indecis.tableauBord.bluetooth_communication:backgroundStacked
      */
     public static final int ActionBar_backgroundStacked=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#contentInsetEnd}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2620,11 +2621,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:contentInsetEnd
+     * @attr name com.indecis.tableauBord.bluetooth_communication:contentInsetEnd
      */
     public static final int ActionBar_contentInsetEnd=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#contentInsetEndWithActions}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#contentInsetEndWithActions}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2633,11 +2634,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:contentInsetEndWithActions
+     * @attr name com.indecis.tableauBord.bluetooth_communication:contentInsetEndWithActions
      */
     public static final int ActionBar_contentInsetEndWithActions=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#contentInsetLeft}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2646,11 +2647,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:contentInsetLeft
+     * @attr name com.indecis.tableauBord.bluetooth_communication:contentInsetLeft
      */
     public static final int ActionBar_contentInsetLeft=5;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#contentInsetRight}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2659,11 +2660,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:contentInsetRight
+     * @attr name com.indecis.tableauBord.bluetooth_communication:contentInsetRight
      */
     public static final int ActionBar_contentInsetRight=6;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#contentInsetStart}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2672,11 +2673,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:contentInsetStart
+     * @attr name com.indecis.tableauBord.bluetooth_communication:contentInsetStart
      */
     public static final int ActionBar_contentInsetStart=7;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#contentInsetStartWithNavigation}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#contentInsetStartWithNavigation}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2685,11 +2686,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:contentInsetStartWithNavigation
+     * @attr name com.indecis.tableauBord.bluetooth_communication:contentInsetStartWithNavigation
      */
     public static final int ActionBar_contentInsetStartWithNavigation=8;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#customNavigationLayout}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#customNavigationLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2697,11 +2698,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:customNavigationLayout
+     * @attr name com.indecis.tableauBord.bluetooth_communication:customNavigationLayout
      */
     public static final int ActionBar_customNavigationLayout=9;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#displayOptions}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#displayOptions}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -2719,11 +2720,11 @@ public final class R {
      * <tr><td>useLogo</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.user.bluetooth_communication:displayOptions
+     * @attr name com.indecis.tableauBord.bluetooth_communication:displayOptions
      */
     public static final int ActionBar_displayOptions=10;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#divider}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#divider}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2731,11 +2732,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:divider
+     * @attr name com.indecis.tableauBord.bluetooth_communication:divider
      */
     public static final int ActionBar_divider=11;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#elevation}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2744,11 +2745,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:elevation
+     * @attr name com.indecis.tableauBord.bluetooth_communication:elevation
      */
     public static final int ActionBar_elevation=12;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#height}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#height}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2757,21 +2758,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:height
+     * @attr name com.indecis.tableauBord.bluetooth_communication:height
      */
     public static final int ActionBar_height=13;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#hideOnContentScroll}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#hideOnContentScroll}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.user.bluetooth_communication:hideOnContentScroll
+     * @attr name com.indecis.tableauBord.bluetooth_communication:hideOnContentScroll
      */
     public static final int ActionBar_hideOnContentScroll=14;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#homeAsUpIndicator}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2779,11 +2780,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:homeAsUpIndicator
+     * @attr name com.indecis.tableauBord.bluetooth_communication:homeAsUpIndicator
      */
     public static final int ActionBar_homeAsUpIndicator=15;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#homeLayout}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#homeLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2791,11 +2792,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:homeLayout
+     * @attr name com.indecis.tableauBord.bluetooth_communication:homeLayout
      */
     public static final int ActionBar_homeLayout=16;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#icon}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#icon}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2803,11 +2804,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:icon
+     * @attr name com.indecis.tableauBord.bluetooth_communication:icon
      */
     public static final int ActionBar_icon=17;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#indeterminateProgressStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#indeterminateProgressStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2815,11 +2816,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:indeterminateProgressStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:indeterminateProgressStyle
      */
     public static final int ActionBar_indeterminateProgressStyle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#itemPadding}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#itemPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2828,11 +2829,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:itemPadding
+     * @attr name com.indecis.tableauBord.bluetooth_communication:itemPadding
      */
     public static final int ActionBar_itemPadding=19;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#logo}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#logo}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2840,11 +2841,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:logo
+     * @attr name com.indecis.tableauBord.bluetooth_communication:logo
      */
     public static final int ActionBar_logo=20;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#navigationMode}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#navigationMode}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -2858,11 +2859,11 @@ public final class R {
      * <tr><td>tabMode</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.user.bluetooth_communication:navigationMode
+     * @attr name com.indecis.tableauBord.bluetooth_communication:navigationMode
      */
     public static final int ActionBar_navigationMode=21;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#popupTheme}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2870,11 +2871,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:popupTheme
+     * @attr name com.indecis.tableauBord.bluetooth_communication:popupTheme
      */
     public static final int ActionBar_popupTheme=22;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#progressBarPadding}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#progressBarPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2883,11 +2884,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:progressBarPadding
+     * @attr name com.indecis.tableauBord.bluetooth_communication:progressBarPadding
      */
     public static final int ActionBar_progressBarPadding=23;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#progressBarStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#progressBarStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2895,21 +2896,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:progressBarStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:progressBarStyle
      */
     public static final int ActionBar_progressBarStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#subtitle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#subtitle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.user.bluetooth_communication:subtitle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:subtitle
      */
     public static final int ActionBar_subtitle=25;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#subtitleTextStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2917,21 +2918,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:subtitleTextStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:subtitleTextStyle
      */
     public static final int ActionBar_subtitleTextStyle=26;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#title}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.user.bluetooth_communication:title
+     * @attr name com.indecis.tableauBord.bluetooth_communication:title
      */
     public static final int ActionBar_title=27;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#titleTextStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2939,7 +2940,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:titleTextStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:titleTextStyle
      */
     public static final int ActionBar_titleTextStyle=28;
     /**
@@ -3021,12 +3022,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionMode_background com.example.user.bluetooth_communication:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_backgroundSplit com.example.user.bluetooth_communication:backgroundSplit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_closeItemLayout com.example.user.bluetooth_communication:closeItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_height com.example.user.bluetooth_communication:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.example.user.bluetooth_communication:subtitleTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_titleTextStyle com.example.user.bluetooth_communication:titleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_background com.indecis.tableauBord.bluetooth_communication:background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_backgroundSplit com.indecis.tableauBord.bluetooth_communication:backgroundSplit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_closeItemLayout com.indecis.tableauBord.bluetooth_communication:closeItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_height com.indecis.tableauBord.bluetooth_communication:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.indecis.tableauBord.bluetooth_communication:subtitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_titleTextStyle com.indecis.tableauBord.bluetooth_communication:titleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionMode_background
      * @see #ActionMode_backgroundSplit
@@ -3040,7 +3041,7 @@ public final class R {
         0x7f0200af, 0x7f0200d0
       };
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#background}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#background}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3048,11 +3049,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:background
+     * @attr name com.indecis.tableauBord.bluetooth_communication:background
      */
     public static final int ActionMode_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#backgroundSplit}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3063,11 +3064,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:backgroundSplit
+     * @attr name com.indecis.tableauBord.bluetooth_communication:backgroundSplit
      */
     public static final int ActionMode_backgroundSplit=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#closeItemLayout}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#closeItemLayout}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3075,11 +3076,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:closeItemLayout
+     * @attr name com.indecis.tableauBord.bluetooth_communication:closeItemLayout
      */
     public static final int ActionMode_closeItemLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#height}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#height}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3088,11 +3089,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:height
+     * @attr name com.indecis.tableauBord.bluetooth_communication:height
      */
     public static final int ActionMode_height=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#subtitleTextStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3100,11 +3101,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:subtitleTextStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:subtitleTextStyle
      */
     public static final int ActionMode_subtitleTextStyle=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#titleTextStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3112,7 +3113,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:titleTextStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:titleTextStyle
      */
     public static final int ActionMode_titleTextStyle=5;
     /**
@@ -3122,8 +3123,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.example.user.bluetooth_communication:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.example.user.bluetooth_communication:initialActivityCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.indecis.tableauBord.bluetooth_communication:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.indecis.tableauBord.bluetooth_communication:initialActivityCount}</code></td><td></td></tr>
      * </table>
      * @see #ActivityChooserView_expandActivityOverflowButtonDrawable
      * @see #ActivityChooserView_initialActivityCount
@@ -3132,7 +3133,7 @@ public final class R {
         0x7f020066, 0x7f020071
       };
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#expandActivityOverflowButtonDrawable}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#expandActivityOverflowButtonDrawable}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3140,17 +3141,17 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:expandActivityOverflowButtonDrawable
+     * @attr name com.indecis.tableauBord.bluetooth_communication:expandActivityOverflowButtonDrawable
      */
     public static final int ActivityChooserView_expandActivityOverflowButtonDrawable=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#initialActivityCount}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#initialActivityCount}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.user.bluetooth_communication:initialActivityCount
+     * @attr name com.indecis.tableauBord.bluetooth_communication:initialActivityCount
      */
     public static final int ActivityChooserView_initialActivityCount=1;
     /**
@@ -3161,11 +3162,11 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.example.user.bluetooth_communication:buttonPanelSideLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listItemLayout com.example.user.bluetooth_communication:listItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listLayout com.example.user.bluetooth_communication:listLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.example.user.bluetooth_communication:multiChoiceItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.example.user.bluetooth_communication:singleChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.indecis.tableauBord.bluetooth_communication:buttonPanelSideLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listItemLayout com.indecis.tableauBord.bluetooth_communication:listItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listLayout com.indecis.tableauBord.bluetooth_communication:listLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.indecis.tableauBord.bluetooth_communication:multiChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.indecis.tableauBord.bluetooth_communication:singleChoiceItemLayout}</code></td><td></td></tr>
      * </table>
      * @see #AlertDialog_android_layout
      * @see #AlertDialog_buttonPanelSideLayout
@@ -3191,7 +3192,7 @@ public final class R {
      */
     public static final int AlertDialog_android_layout=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#buttonPanelSideLayout}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#buttonPanelSideLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3199,11 +3200,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:buttonPanelSideLayout
+     * @attr name com.indecis.tableauBord.bluetooth_communication:buttonPanelSideLayout
      */
     public static final int AlertDialog_buttonPanelSideLayout=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#listItemLayout}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#listItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3211,11 +3212,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:listItemLayout
+     * @attr name com.indecis.tableauBord.bluetooth_communication:listItemLayout
      */
     public static final int AlertDialog_listItemLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#listLayout}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#listLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3223,11 +3224,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:listLayout
+     * @attr name com.indecis.tableauBord.bluetooth_communication:listLayout
      */
     public static final int AlertDialog_listLayout=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#multiChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#multiChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3235,11 +3236,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:multiChoiceItemLayout
+     * @attr name com.indecis.tableauBord.bluetooth_communication:multiChoiceItemLayout
      */
     public static final int AlertDialog_multiChoiceItemLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#singleChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#singleChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3247,7 +3248,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:singleChoiceItemLayout
+     * @attr name com.indecis.tableauBord.bluetooth_communication:singleChoiceItemLayout
      */
     public static final int AlertDialog_singleChoiceItemLayout=5;
     /**
@@ -3258,7 +3259,7 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.example.user.bluetooth_communication:srcCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.indecis.tableauBord.bluetooth_communication:srcCompat}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatImageView_android_src
      * @see #AppCompatImageView_srcCompat
@@ -3282,7 +3283,7 @@ public final class R {
      */
     public static final int AppCompatImageView_android_src=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#srcCompat}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#srcCompat}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3290,7 +3291,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:srcCompat
+     * @attr name com.indecis.tableauBord.bluetooth_communication:srcCompat
      */
     public static final int AppCompatImageView_srcCompat=1;
     /**
@@ -3301,9 +3302,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.example.user.bluetooth_communication:tickMark}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.example.user.bluetooth_communication:tickMarkTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.example.user.bluetooth_communication:tickMarkTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.indecis.tableauBord.bluetooth_communication:tickMark}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.indecis.tableauBord.bluetooth_communication:tickMarkTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.indecis.tableauBord.bluetooth_communication:tickMarkTintMode}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatSeekBar_android_thumb
      * @see #AppCompatSeekBar_tickMark
@@ -3326,7 +3327,7 @@ public final class R {
      */
     public static final int AppCompatSeekBar_android_thumb=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#tickMark}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#tickMark}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3334,22 +3335,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:tickMark
+     * @attr name com.indecis.tableauBord.bluetooth_communication:tickMark
      */
     public static final int AppCompatSeekBar_tickMark=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#tickMarkTint}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#tickMarkTint}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:tickMarkTint
+     * @attr name com.indecis.tableauBord.bluetooth_communication:tickMarkTint
      */
     public static final int AppCompatSeekBar_tickMarkTint=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#tickMarkTintMode}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#tickMarkTintMode}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -3366,7 +3367,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.user.bluetooth_communication:tickMarkTintMode
+     * @attr name com.indecis.tableauBord.bluetooth_communication:tickMarkTintMode
      */
     public static final int AppCompatSeekBar_tickMarkTintMode=3;
     /**
@@ -3506,7 +3507,7 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.example.user.bluetooth_communication:textAllCaps}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.indecis.tableauBord.bluetooth_communication:textAllCaps}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatTextView_android_textAppearance
      * @see #AppCompatTextView_textAllCaps
@@ -3527,7 +3528,7 @@ public final class R {
      */
     public static final int AppCompatTextView_android_textAppearance=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3537,7 +3538,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.user.bluetooth_communication:textAllCaps
+     * @attr name com.indecis.tableauBord.bluetooth_communication:textAllCaps
      */
     public static final int AppCompatTextView_textAllCaps=1;
     /**
@@ -3549,119 +3550,119 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.example.user.bluetooth_communication:actionBarDivider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.example.user.bluetooth_communication:actionBarItemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.example.user.bluetooth_communication:actionBarPopupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.example.user.bluetooth_communication:actionBarSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.example.user.bluetooth_communication:actionBarSplitStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.example.user.bluetooth_communication:actionBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.example.user.bluetooth_communication:actionBarTabBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.example.user.bluetooth_communication:actionBarTabStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.example.user.bluetooth_communication:actionBarTabTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.example.user.bluetooth_communication:actionBarTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.example.user.bluetooth_communication:actionBarWidgetTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.example.user.bluetooth_communication:actionButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.example.user.bluetooth_communication:actionDropDownStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.example.user.bluetooth_communication:actionMenuTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.example.user.bluetooth_communication:actionMenuTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.example.user.bluetooth_communication:actionModeBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.example.user.bluetooth_communication:actionModeCloseButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.example.user.bluetooth_communication:actionModeCloseDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.example.user.bluetooth_communication:actionModeCopyDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.example.user.bluetooth_communication:actionModeCutDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.example.user.bluetooth_communication:actionModeFindDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.example.user.bluetooth_communication:actionModePasteDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.example.user.bluetooth_communication:actionModePopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.example.user.bluetooth_communication:actionModeSelectAllDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.example.user.bluetooth_communication:actionModeShareDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.example.user.bluetooth_communication:actionModeSplitBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.example.user.bluetooth_communication:actionModeStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.example.user.bluetooth_communication:actionModeWebSearchDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.example.user.bluetooth_communication:actionOverflowButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.example.user.bluetooth_communication:actionOverflowMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.example.user.bluetooth_communication:activityChooserViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.example.user.bluetooth_communication:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.example.user.bluetooth_communication:alertDialogCenterButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.example.user.bluetooth_communication:alertDialogStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.example.user.bluetooth_communication:alertDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.example.user.bluetooth_communication:autoCompleteTextViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.example.user.bluetooth_communication:borderlessButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.example.user.bluetooth_communication:buttonBarButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.example.user.bluetooth_communication:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.example.user.bluetooth_communication:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.example.user.bluetooth_communication:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.example.user.bluetooth_communication:buttonBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.example.user.bluetooth_communication:buttonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.example.user.bluetooth_communication:buttonStyleSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.example.user.bluetooth_communication:checkboxStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.example.user.bluetooth_communication:checkedTextViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.example.user.bluetooth_communication:colorAccent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.example.user.bluetooth_communication:colorBackgroundFloating}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.example.user.bluetooth_communication:colorButtonNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.example.user.bluetooth_communication:colorControlActivated}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.example.user.bluetooth_communication:colorControlHighlight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.example.user.bluetooth_communication:colorControlNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.example.user.bluetooth_communication:colorPrimary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.example.user.bluetooth_communication:colorPrimaryDark}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.example.user.bluetooth_communication:colorSwitchThumbNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.example.user.bluetooth_communication:controlBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.example.user.bluetooth_communication:dialogPreferredPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.example.user.bluetooth_communication:dialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.example.user.bluetooth_communication:dividerHorizontal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.example.user.bluetooth_communication:dividerVertical}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.example.user.bluetooth_communication:dropDownListViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.example.user.bluetooth_communication:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.example.user.bluetooth_communication:editTextBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.example.user.bluetooth_communication:editTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.example.user.bluetooth_communication:editTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.example.user.bluetooth_communication:homeAsUpIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.example.user.bluetooth_communication:imageButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.example.user.bluetooth_communication:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.example.user.bluetooth_communication:listDividerAlertDialog}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.example.user.bluetooth_communication:listMenuViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.example.user.bluetooth_communication:listPopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.example.user.bluetooth_communication:listPreferredItemHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.example.user.bluetooth_communication:listPreferredItemHeightLarge}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.example.user.bluetooth_communication:listPreferredItemHeightSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.example.user.bluetooth_communication:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.example.user.bluetooth_communication:listPreferredItemPaddingRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.example.user.bluetooth_communication:panelBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.example.user.bluetooth_communication:panelMenuListTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.example.user.bluetooth_communication:panelMenuListWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.example.user.bluetooth_communication:popupMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.example.user.bluetooth_communication:popupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.example.user.bluetooth_communication:radioButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.example.user.bluetooth_communication:ratingBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.example.user.bluetooth_communication:ratingBarStyleIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.example.user.bluetooth_communication:ratingBarStyleSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.example.user.bluetooth_communication:searchViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.example.user.bluetooth_communication:seekBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.example.user.bluetooth_communication:selectableItemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.example.user.bluetooth_communication:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.example.user.bluetooth_communication:spinnerDropDownItemStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.example.user.bluetooth_communication:spinnerStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.example.user.bluetooth_communication:switchStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.example.user.bluetooth_communication:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.example.user.bluetooth_communication:textAppearanceListItem}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.example.user.bluetooth_communication:textAppearanceListItemSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.example.user.bluetooth_communication:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.example.user.bluetooth_communication:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.example.user.bluetooth_communication:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.example.user.bluetooth_communication:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.example.user.bluetooth_communication:textColorAlertDialogListItem}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.example.user.bluetooth_communication:textColorSearchUrl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.example.user.bluetooth_communication:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.example.user.bluetooth_communication:toolbarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.example.user.bluetooth_communication:windowActionBar}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.example.user.bluetooth_communication:windowActionBarOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.example.user.bluetooth_communication:windowActionModeOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.example.user.bluetooth_communication:windowFixedHeightMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.example.user.bluetooth_communication:windowFixedHeightMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.example.user.bluetooth_communication:windowFixedWidthMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.example.user.bluetooth_communication:windowFixedWidthMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.example.user.bluetooth_communication:windowMinWidthMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.example.user.bluetooth_communication:windowMinWidthMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.example.user.bluetooth_communication:windowNoTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.indecis.tableauBord.bluetooth_communication:actionBarDivider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.indecis.tableauBord.bluetooth_communication:actionBarItemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.indecis.tableauBord.bluetooth_communication:actionBarPopupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.indecis.tableauBord.bluetooth_communication:actionBarSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.indecis.tableauBord.bluetooth_communication:actionBarSplitStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.indecis.tableauBord.bluetooth_communication:actionBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.indecis.tableauBord.bluetooth_communication:actionBarTabBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.indecis.tableauBord.bluetooth_communication:actionBarTabStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.indecis.tableauBord.bluetooth_communication:actionBarTabTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.indecis.tableauBord.bluetooth_communication:actionBarTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.indecis.tableauBord.bluetooth_communication:actionBarWidgetTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.indecis.tableauBord.bluetooth_communication:actionButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.indecis.tableauBord.bluetooth_communication:actionDropDownStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.indecis.tableauBord.bluetooth_communication:actionMenuTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.indecis.tableauBord.bluetooth_communication:actionMenuTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.indecis.tableauBord.bluetooth_communication:actionModeBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.indecis.tableauBord.bluetooth_communication:actionModeCloseButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.indecis.tableauBord.bluetooth_communication:actionModeCloseDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.indecis.tableauBord.bluetooth_communication:actionModeCopyDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.indecis.tableauBord.bluetooth_communication:actionModeCutDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.indecis.tableauBord.bluetooth_communication:actionModeFindDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.indecis.tableauBord.bluetooth_communication:actionModePasteDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.indecis.tableauBord.bluetooth_communication:actionModePopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.indecis.tableauBord.bluetooth_communication:actionModeSelectAllDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.indecis.tableauBord.bluetooth_communication:actionModeShareDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.indecis.tableauBord.bluetooth_communication:actionModeSplitBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.indecis.tableauBord.bluetooth_communication:actionModeStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.indecis.tableauBord.bluetooth_communication:actionModeWebSearchDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.indecis.tableauBord.bluetooth_communication:actionOverflowButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.indecis.tableauBord.bluetooth_communication:actionOverflowMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.indecis.tableauBord.bluetooth_communication:activityChooserViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.indecis.tableauBord.bluetooth_communication:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.indecis.tableauBord.bluetooth_communication:alertDialogCenterButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.indecis.tableauBord.bluetooth_communication:alertDialogStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.indecis.tableauBord.bluetooth_communication:alertDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.indecis.tableauBord.bluetooth_communication:autoCompleteTextViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.indecis.tableauBord.bluetooth_communication:borderlessButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.indecis.tableauBord.bluetooth_communication:buttonBarButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.indecis.tableauBord.bluetooth_communication:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.indecis.tableauBord.bluetooth_communication:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.indecis.tableauBord.bluetooth_communication:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.indecis.tableauBord.bluetooth_communication:buttonBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.indecis.tableauBord.bluetooth_communication:buttonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.indecis.tableauBord.bluetooth_communication:buttonStyleSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.indecis.tableauBord.bluetooth_communication:checkboxStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.indecis.tableauBord.bluetooth_communication:checkedTextViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.indecis.tableauBord.bluetooth_communication:colorAccent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.indecis.tableauBord.bluetooth_communication:colorBackgroundFloating}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.indecis.tableauBord.bluetooth_communication:colorButtonNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.indecis.tableauBord.bluetooth_communication:colorControlActivated}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.indecis.tableauBord.bluetooth_communication:colorControlHighlight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.indecis.tableauBord.bluetooth_communication:colorControlNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.indecis.tableauBord.bluetooth_communication:colorPrimary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.indecis.tableauBord.bluetooth_communication:colorPrimaryDark}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.indecis.tableauBord.bluetooth_communication:colorSwitchThumbNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.indecis.tableauBord.bluetooth_communication:controlBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.indecis.tableauBord.bluetooth_communication:dialogPreferredPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.indecis.tableauBord.bluetooth_communication:dialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.indecis.tableauBord.bluetooth_communication:dividerHorizontal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.indecis.tableauBord.bluetooth_communication:dividerVertical}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.indecis.tableauBord.bluetooth_communication:dropDownListViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.indecis.tableauBord.bluetooth_communication:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.indecis.tableauBord.bluetooth_communication:editTextBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.indecis.tableauBord.bluetooth_communication:editTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.indecis.tableauBord.bluetooth_communication:editTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.indecis.tableauBord.bluetooth_communication:homeAsUpIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.indecis.tableauBord.bluetooth_communication:imageButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.indecis.tableauBord.bluetooth_communication:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.indecis.tableauBord.bluetooth_communication:listDividerAlertDialog}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.indecis.tableauBord.bluetooth_communication:listMenuViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.indecis.tableauBord.bluetooth_communication:listPopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.indecis.tableauBord.bluetooth_communication:listPreferredItemHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.indecis.tableauBord.bluetooth_communication:listPreferredItemHeightLarge}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.indecis.tableauBord.bluetooth_communication:listPreferredItemHeightSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.indecis.tableauBord.bluetooth_communication:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.indecis.tableauBord.bluetooth_communication:listPreferredItemPaddingRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.indecis.tableauBord.bluetooth_communication:panelBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.indecis.tableauBord.bluetooth_communication:panelMenuListTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.indecis.tableauBord.bluetooth_communication:panelMenuListWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.indecis.tableauBord.bluetooth_communication:popupMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.indecis.tableauBord.bluetooth_communication:popupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.indecis.tableauBord.bluetooth_communication:radioButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.indecis.tableauBord.bluetooth_communication:ratingBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.indecis.tableauBord.bluetooth_communication:ratingBarStyleIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.indecis.tableauBord.bluetooth_communication:ratingBarStyleSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.indecis.tableauBord.bluetooth_communication:searchViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.indecis.tableauBord.bluetooth_communication:seekBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.indecis.tableauBord.bluetooth_communication:selectableItemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.indecis.tableauBord.bluetooth_communication:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.indecis.tableauBord.bluetooth_communication:spinnerDropDownItemStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.indecis.tableauBord.bluetooth_communication:spinnerStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.indecis.tableauBord.bluetooth_communication:switchStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.indecis.tableauBord.bluetooth_communication:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.indecis.tableauBord.bluetooth_communication:textAppearanceListItem}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.indecis.tableauBord.bluetooth_communication:textAppearanceListItemSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.indecis.tableauBord.bluetooth_communication:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.indecis.tableauBord.bluetooth_communication:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.indecis.tableauBord.bluetooth_communication:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.indecis.tableauBord.bluetooth_communication:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.indecis.tableauBord.bluetooth_communication:textColorAlertDialogListItem}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.indecis.tableauBord.bluetooth_communication:textColorSearchUrl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.indecis.tableauBord.bluetooth_communication:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.indecis.tableauBord.bluetooth_communication:toolbarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.indecis.tableauBord.bluetooth_communication:windowActionBar}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.indecis.tableauBord.bluetooth_communication:windowActionBarOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.indecis.tableauBord.bluetooth_communication:windowActionModeOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.indecis.tableauBord.bluetooth_communication:windowFixedHeightMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.indecis.tableauBord.bluetooth_communication:windowFixedHeightMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.indecis.tableauBord.bluetooth_communication:windowFixedWidthMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.indecis.tableauBord.bluetooth_communication:windowFixedWidthMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.indecis.tableauBord.bluetooth_communication:windowMinWidthMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.indecis.tableauBord.bluetooth_communication:windowMinWidthMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.indecis.tableauBord.bluetooth_communication:windowNoTitle}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatTheme_android_windowIsFloating
      * @see #AppCompatTheme_android_windowAnimationStyle
@@ -3833,7 +3834,7 @@ public final class R {
      */
     public static final int AppCompatTheme_android_windowAnimationStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#actionBarDivider}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#actionBarDivider}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3841,11 +3842,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:actionBarDivider
+     * @attr name com.indecis.tableauBord.bluetooth_communication:actionBarDivider
      */
     public static final int AppCompatTheme_actionBarDivider=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#actionBarItemBackground}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#actionBarItemBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3853,11 +3854,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:actionBarItemBackground
+     * @attr name com.indecis.tableauBord.bluetooth_communication:actionBarItemBackground
      */
     public static final int AppCompatTheme_actionBarItemBackground=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#actionBarPopupTheme}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#actionBarPopupTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3865,11 +3866,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:actionBarPopupTheme
+     * @attr name com.indecis.tableauBord.bluetooth_communication:actionBarPopupTheme
      */
     public static final int AppCompatTheme_actionBarPopupTheme=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#actionBarSize}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#actionBarSize}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3886,11 +3887,11 @@ public final class R {
      * <tr><td>wrap_content</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.user.bluetooth_communication:actionBarSize
+     * @attr name com.indecis.tableauBord.bluetooth_communication:actionBarSize
      */
     public static final int AppCompatTheme_actionBarSize=5;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#actionBarSplitStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#actionBarSplitStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3898,11 +3899,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:actionBarSplitStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:actionBarSplitStyle
      */
     public static final int AppCompatTheme_actionBarSplitStyle=6;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#actionBarStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#actionBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3910,11 +3911,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:actionBarStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:actionBarStyle
      */
     public static final int AppCompatTheme_actionBarStyle=7;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#actionBarTabBarStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#actionBarTabBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3922,11 +3923,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:actionBarTabBarStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:actionBarTabBarStyle
      */
     public static final int AppCompatTheme_actionBarTabBarStyle=8;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#actionBarTabStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#actionBarTabStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3934,11 +3935,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:actionBarTabStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:actionBarTabStyle
      */
     public static final int AppCompatTheme_actionBarTabStyle=9;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#actionBarTabTextStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#actionBarTabTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3946,11 +3947,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:actionBarTabTextStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:actionBarTabTextStyle
      */
     public static final int AppCompatTheme_actionBarTabTextStyle=10;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#actionBarTheme}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#actionBarTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3958,11 +3959,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:actionBarTheme
+     * @attr name com.indecis.tableauBord.bluetooth_communication:actionBarTheme
      */
     public static final int AppCompatTheme_actionBarTheme=11;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#actionBarWidgetTheme}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#actionBarWidgetTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3970,11 +3971,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:actionBarWidgetTheme
+     * @attr name com.indecis.tableauBord.bluetooth_communication:actionBarWidgetTheme
      */
     public static final int AppCompatTheme_actionBarWidgetTheme=12;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#actionButtonStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#actionButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3982,11 +3983,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:actionButtonStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:actionButtonStyle
      */
     public static final int AppCompatTheme_actionButtonStyle=13;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#actionDropDownStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#actionDropDownStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3994,11 +3995,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:actionDropDownStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:actionDropDownStyle
      */
     public static final int AppCompatTheme_actionDropDownStyle=14;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#actionMenuTextAppearance}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#actionMenuTextAppearance}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4006,11 +4007,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:actionMenuTextAppearance
+     * @attr name com.indecis.tableauBord.bluetooth_communication:actionMenuTextAppearance
      */
     public static final int AppCompatTheme_actionMenuTextAppearance=15;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#actionMenuTextColor}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#actionMenuTextColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4021,11 +4022,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:actionMenuTextColor
+     * @attr name com.indecis.tableauBord.bluetooth_communication:actionMenuTextColor
      */
     public static final int AppCompatTheme_actionMenuTextColor=16;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#actionModeBackground}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#actionModeBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4033,11 +4034,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:actionModeBackground
+     * @attr name com.indecis.tableauBord.bluetooth_communication:actionModeBackground
      */
     public static final int AppCompatTheme_actionModeBackground=17;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#actionModeCloseButtonStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#actionModeCloseButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4045,11 +4046,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:actionModeCloseButtonStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:actionModeCloseButtonStyle
      */
     public static final int AppCompatTheme_actionModeCloseButtonStyle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#actionModeCloseDrawable}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#actionModeCloseDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4057,11 +4058,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:actionModeCloseDrawable
+     * @attr name com.indecis.tableauBord.bluetooth_communication:actionModeCloseDrawable
      */
     public static final int AppCompatTheme_actionModeCloseDrawable=19;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#actionModeCopyDrawable}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#actionModeCopyDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4069,11 +4070,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:actionModeCopyDrawable
+     * @attr name com.indecis.tableauBord.bluetooth_communication:actionModeCopyDrawable
      */
     public static final int AppCompatTheme_actionModeCopyDrawable=20;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#actionModeCutDrawable}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#actionModeCutDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4081,11 +4082,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:actionModeCutDrawable
+     * @attr name com.indecis.tableauBord.bluetooth_communication:actionModeCutDrawable
      */
     public static final int AppCompatTheme_actionModeCutDrawable=21;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#actionModeFindDrawable}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#actionModeFindDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4093,11 +4094,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:actionModeFindDrawable
+     * @attr name com.indecis.tableauBord.bluetooth_communication:actionModeFindDrawable
      */
     public static final int AppCompatTheme_actionModeFindDrawable=22;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#actionModePasteDrawable}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#actionModePasteDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4105,11 +4106,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:actionModePasteDrawable
+     * @attr name com.indecis.tableauBord.bluetooth_communication:actionModePasteDrawable
      */
     public static final int AppCompatTheme_actionModePasteDrawable=23;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#actionModePopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#actionModePopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4117,11 +4118,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:actionModePopupWindowStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:actionModePopupWindowStyle
      */
     public static final int AppCompatTheme_actionModePopupWindowStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#actionModeSelectAllDrawable}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#actionModeSelectAllDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4129,11 +4130,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:actionModeSelectAllDrawable
+     * @attr name com.indecis.tableauBord.bluetooth_communication:actionModeSelectAllDrawable
      */
     public static final int AppCompatTheme_actionModeSelectAllDrawable=25;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#actionModeShareDrawable}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#actionModeShareDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4141,11 +4142,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:actionModeShareDrawable
+     * @attr name com.indecis.tableauBord.bluetooth_communication:actionModeShareDrawable
      */
     public static final int AppCompatTheme_actionModeShareDrawable=26;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#actionModeSplitBackground}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#actionModeSplitBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4153,11 +4154,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:actionModeSplitBackground
+     * @attr name com.indecis.tableauBord.bluetooth_communication:actionModeSplitBackground
      */
     public static final int AppCompatTheme_actionModeSplitBackground=27;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#actionModeStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#actionModeStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4165,11 +4166,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:actionModeStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:actionModeStyle
      */
     public static final int AppCompatTheme_actionModeStyle=28;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#actionModeWebSearchDrawable}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#actionModeWebSearchDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4177,11 +4178,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:actionModeWebSearchDrawable
+     * @attr name com.indecis.tableauBord.bluetooth_communication:actionModeWebSearchDrawable
      */
     public static final int AppCompatTheme_actionModeWebSearchDrawable=29;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#actionOverflowButtonStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#actionOverflowButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4189,11 +4190,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:actionOverflowButtonStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:actionOverflowButtonStyle
      */
     public static final int AppCompatTheme_actionOverflowButtonStyle=30;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#actionOverflowMenuStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#actionOverflowMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4201,11 +4202,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:actionOverflowMenuStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:actionOverflowMenuStyle
      */
     public static final int AppCompatTheme_actionOverflowMenuStyle=31;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#activityChooserViewStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#activityChooserViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4213,11 +4214,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:activityChooserViewStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:activityChooserViewStyle
      */
     public static final int AppCompatTheme_activityChooserViewStyle=32;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#alertDialogButtonGroupStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#alertDialogButtonGroupStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4225,21 +4226,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:alertDialogButtonGroupStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:alertDialogButtonGroupStyle
      */
     public static final int AppCompatTheme_alertDialogButtonGroupStyle=33;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#alertDialogCenterButtons}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#alertDialogCenterButtons}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.user.bluetooth_communication:alertDialogCenterButtons
+     * @attr name com.indecis.tableauBord.bluetooth_communication:alertDialogCenterButtons
      */
     public static final int AppCompatTheme_alertDialogCenterButtons=34;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#alertDialogStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#alertDialogStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4247,11 +4248,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:alertDialogStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:alertDialogStyle
      */
     public static final int AppCompatTheme_alertDialogStyle=35;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#alertDialogTheme}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#alertDialogTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4259,11 +4260,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:alertDialogTheme
+     * @attr name com.indecis.tableauBord.bluetooth_communication:alertDialogTheme
      */
     public static final int AppCompatTheme_alertDialogTheme=36;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#autoCompleteTextViewStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#autoCompleteTextViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4271,11 +4272,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:autoCompleteTextViewStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:autoCompleteTextViewStyle
      */
     public static final int AppCompatTheme_autoCompleteTextViewStyle=37;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#borderlessButtonStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#borderlessButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4283,11 +4284,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:borderlessButtonStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:borderlessButtonStyle
      */
     public static final int AppCompatTheme_borderlessButtonStyle=38;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#buttonBarButtonStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#buttonBarButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4295,11 +4296,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:buttonBarButtonStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:buttonBarButtonStyle
      */
     public static final int AppCompatTheme_buttonBarButtonStyle=39;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#buttonBarNegativeButtonStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#buttonBarNegativeButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4307,11 +4308,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:buttonBarNegativeButtonStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:buttonBarNegativeButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNegativeButtonStyle=40;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#buttonBarNeutralButtonStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#buttonBarNeutralButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4319,11 +4320,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:buttonBarNeutralButtonStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:buttonBarNeutralButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNeutralButtonStyle=41;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#buttonBarPositiveButtonStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#buttonBarPositiveButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4331,11 +4332,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:buttonBarPositiveButtonStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:buttonBarPositiveButtonStyle
      */
     public static final int AppCompatTheme_buttonBarPositiveButtonStyle=42;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#buttonBarStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#buttonBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4343,11 +4344,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:buttonBarStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:buttonBarStyle
      */
     public static final int AppCompatTheme_buttonBarStyle=43;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#buttonStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#buttonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4355,11 +4356,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:buttonStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:buttonStyle
      */
     public static final int AppCompatTheme_buttonStyle=44;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#buttonStyleSmall}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#buttonStyleSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4367,11 +4368,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:buttonStyleSmall
+     * @attr name com.indecis.tableauBord.bluetooth_communication:buttonStyleSmall
      */
     public static final int AppCompatTheme_buttonStyleSmall=45;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#checkboxStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#checkboxStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4379,11 +4380,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:checkboxStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:checkboxStyle
      */
     public static final int AppCompatTheme_checkboxStyle=46;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#checkedTextViewStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#checkedTextViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4391,110 +4392,110 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:checkedTextViewStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:checkedTextViewStyle
      */
     public static final int AppCompatTheme_checkedTextViewStyle=47;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#colorAccent}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#colorAccent}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:colorAccent
+     * @attr name com.indecis.tableauBord.bluetooth_communication:colorAccent
      */
     public static final int AppCompatTheme_colorAccent=48;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#colorBackgroundFloating}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#colorBackgroundFloating}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:colorBackgroundFloating
+     * @attr name com.indecis.tableauBord.bluetooth_communication:colorBackgroundFloating
      */
     public static final int AppCompatTheme_colorBackgroundFloating=49;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#colorButtonNormal}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#colorButtonNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:colorButtonNormal
+     * @attr name com.indecis.tableauBord.bluetooth_communication:colorButtonNormal
      */
     public static final int AppCompatTheme_colorButtonNormal=50;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#colorControlActivated}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#colorControlActivated}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:colorControlActivated
+     * @attr name com.indecis.tableauBord.bluetooth_communication:colorControlActivated
      */
     public static final int AppCompatTheme_colorControlActivated=51;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#colorControlHighlight}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#colorControlHighlight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:colorControlHighlight
+     * @attr name com.indecis.tableauBord.bluetooth_communication:colorControlHighlight
      */
     public static final int AppCompatTheme_colorControlHighlight=52;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#colorControlNormal}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#colorControlNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:colorControlNormal
+     * @attr name com.indecis.tableauBord.bluetooth_communication:colorControlNormal
      */
     public static final int AppCompatTheme_colorControlNormal=53;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#colorPrimary}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#colorPrimary}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:colorPrimary
+     * @attr name com.indecis.tableauBord.bluetooth_communication:colorPrimary
      */
     public static final int AppCompatTheme_colorPrimary=54;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#colorPrimaryDark}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#colorPrimaryDark}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:colorPrimaryDark
+     * @attr name com.indecis.tableauBord.bluetooth_communication:colorPrimaryDark
      */
     public static final int AppCompatTheme_colorPrimaryDark=55;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#colorSwitchThumbNormal}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#colorSwitchThumbNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:colorSwitchThumbNormal
+     * @attr name com.indecis.tableauBord.bluetooth_communication:colorSwitchThumbNormal
      */
     public static final int AppCompatTheme_colorSwitchThumbNormal=56;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#controlBackground}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#controlBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4502,11 +4503,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:controlBackground
+     * @attr name com.indecis.tableauBord.bluetooth_communication:controlBackground
      */
     public static final int AppCompatTheme_controlBackground=57;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#dialogPreferredPadding}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#dialogPreferredPadding}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4515,11 +4516,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:dialogPreferredPadding
+     * @attr name com.indecis.tableauBord.bluetooth_communication:dialogPreferredPadding
      */
     public static final int AppCompatTheme_dialogPreferredPadding=58;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#dialogTheme}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#dialogTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4527,11 +4528,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:dialogTheme
+     * @attr name com.indecis.tableauBord.bluetooth_communication:dialogTheme
      */
     public static final int AppCompatTheme_dialogTheme=59;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#dividerHorizontal}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#dividerHorizontal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4539,11 +4540,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:dividerHorizontal
+     * @attr name com.indecis.tableauBord.bluetooth_communication:dividerHorizontal
      */
     public static final int AppCompatTheme_dividerHorizontal=60;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#dividerVertical}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#dividerVertical}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4551,11 +4552,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:dividerVertical
+     * @attr name com.indecis.tableauBord.bluetooth_communication:dividerVertical
      */
     public static final int AppCompatTheme_dividerVertical=61;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#dropDownListViewStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#dropDownListViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4563,11 +4564,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:dropDownListViewStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:dropDownListViewStyle
      */
     public static final int AppCompatTheme_dropDownListViewStyle=62;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#dropdownListPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#dropdownListPreferredItemHeight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4576,11 +4577,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:dropdownListPreferredItemHeight
+     * @attr name com.indecis.tableauBord.bluetooth_communication:dropdownListPreferredItemHeight
      */
     public static final int AppCompatTheme_dropdownListPreferredItemHeight=63;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#editTextBackground}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#editTextBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4588,11 +4589,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:editTextBackground
+     * @attr name com.indecis.tableauBord.bluetooth_communication:editTextBackground
      */
     public static final int AppCompatTheme_editTextBackground=64;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#editTextColor}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#editTextColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4603,11 +4604,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:editTextColor
+     * @attr name com.indecis.tableauBord.bluetooth_communication:editTextColor
      */
     public static final int AppCompatTheme_editTextColor=65;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#editTextStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#editTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4615,11 +4616,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:editTextStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:editTextStyle
      */
     public static final int AppCompatTheme_editTextStyle=66;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#homeAsUpIndicator}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4627,11 +4628,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:homeAsUpIndicator
+     * @attr name com.indecis.tableauBord.bluetooth_communication:homeAsUpIndicator
      */
     public static final int AppCompatTheme_homeAsUpIndicator=67;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#imageButtonStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#imageButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4639,11 +4640,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:imageButtonStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:imageButtonStyle
      */
     public static final int AppCompatTheme_imageButtonStyle=68;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#listChoiceBackgroundIndicator}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#listChoiceBackgroundIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4651,11 +4652,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:listChoiceBackgroundIndicator
+     * @attr name com.indecis.tableauBord.bluetooth_communication:listChoiceBackgroundIndicator
      */
     public static final int AppCompatTheme_listChoiceBackgroundIndicator=69;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#listDividerAlertDialog}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#listDividerAlertDialog}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4663,11 +4664,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:listDividerAlertDialog
+     * @attr name com.indecis.tableauBord.bluetooth_communication:listDividerAlertDialog
      */
     public static final int AppCompatTheme_listDividerAlertDialog=70;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#listMenuViewStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#listMenuViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4675,11 +4676,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:listMenuViewStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:listMenuViewStyle
      */
     public static final int AppCompatTheme_listMenuViewStyle=71;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#listPopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#listPopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4687,11 +4688,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:listPopupWindowStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:listPopupWindowStyle
      */
     public static final int AppCompatTheme_listPopupWindowStyle=72;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#listPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#listPreferredItemHeight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4700,11 +4701,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:listPreferredItemHeight
+     * @attr name com.indecis.tableauBord.bluetooth_communication:listPreferredItemHeight
      */
     public static final int AppCompatTheme_listPreferredItemHeight=73;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#listPreferredItemHeightLarge}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#listPreferredItemHeightLarge}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4713,11 +4714,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:listPreferredItemHeightLarge
+     * @attr name com.indecis.tableauBord.bluetooth_communication:listPreferredItemHeightLarge
      */
     public static final int AppCompatTheme_listPreferredItemHeightLarge=74;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#listPreferredItemHeightSmall}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#listPreferredItemHeightSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4726,11 +4727,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:listPreferredItemHeightSmall
+     * @attr name com.indecis.tableauBord.bluetooth_communication:listPreferredItemHeightSmall
      */
     public static final int AppCompatTheme_listPreferredItemHeightSmall=75;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#listPreferredItemPaddingLeft}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#listPreferredItemPaddingLeft}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4739,11 +4740,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:listPreferredItemPaddingLeft
+     * @attr name com.indecis.tableauBord.bluetooth_communication:listPreferredItemPaddingLeft
      */
     public static final int AppCompatTheme_listPreferredItemPaddingLeft=76;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#listPreferredItemPaddingRight}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#listPreferredItemPaddingRight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4752,11 +4753,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:listPreferredItemPaddingRight
+     * @attr name com.indecis.tableauBord.bluetooth_communication:listPreferredItemPaddingRight
      */
     public static final int AppCompatTheme_listPreferredItemPaddingRight=77;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#panelBackground}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#panelBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4764,11 +4765,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:panelBackground
+     * @attr name com.indecis.tableauBord.bluetooth_communication:panelBackground
      */
     public static final int AppCompatTheme_panelBackground=78;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#panelMenuListTheme}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#panelMenuListTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4776,11 +4777,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:panelMenuListTheme
+     * @attr name com.indecis.tableauBord.bluetooth_communication:panelMenuListTheme
      */
     public static final int AppCompatTheme_panelMenuListTheme=79;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#panelMenuListWidth}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#panelMenuListWidth}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4789,11 +4790,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:panelMenuListWidth
+     * @attr name com.indecis.tableauBord.bluetooth_communication:panelMenuListWidth
      */
     public static final int AppCompatTheme_panelMenuListWidth=80;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#popupMenuStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#popupMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4801,11 +4802,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:popupMenuStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:popupMenuStyle
      */
     public static final int AppCompatTheme_popupMenuStyle=81;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#popupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#popupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4813,11 +4814,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:popupWindowStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:popupWindowStyle
      */
     public static final int AppCompatTheme_popupWindowStyle=82;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#radioButtonStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#radioButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4825,11 +4826,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:radioButtonStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:radioButtonStyle
      */
     public static final int AppCompatTheme_radioButtonStyle=83;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#ratingBarStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#ratingBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4837,11 +4838,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:ratingBarStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:ratingBarStyle
      */
     public static final int AppCompatTheme_ratingBarStyle=84;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#ratingBarStyleIndicator}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#ratingBarStyleIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4849,11 +4850,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:ratingBarStyleIndicator
+     * @attr name com.indecis.tableauBord.bluetooth_communication:ratingBarStyleIndicator
      */
     public static final int AppCompatTheme_ratingBarStyleIndicator=85;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#ratingBarStyleSmall}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#ratingBarStyleSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4861,11 +4862,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:ratingBarStyleSmall
+     * @attr name com.indecis.tableauBord.bluetooth_communication:ratingBarStyleSmall
      */
     public static final int AppCompatTheme_ratingBarStyleSmall=86;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#searchViewStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#searchViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4873,11 +4874,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:searchViewStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:searchViewStyle
      */
     public static final int AppCompatTheme_searchViewStyle=87;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#seekBarStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#seekBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4885,11 +4886,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:seekBarStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:seekBarStyle
      */
     public static final int AppCompatTheme_seekBarStyle=88;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#selectableItemBackground}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#selectableItemBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4897,11 +4898,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:selectableItemBackground
+     * @attr name com.indecis.tableauBord.bluetooth_communication:selectableItemBackground
      */
     public static final int AppCompatTheme_selectableItemBackground=89;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#selectableItemBackgroundBorderless}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#selectableItemBackgroundBorderless}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4909,11 +4910,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:selectableItemBackgroundBorderless
+     * @attr name com.indecis.tableauBord.bluetooth_communication:selectableItemBackgroundBorderless
      */
     public static final int AppCompatTheme_selectableItemBackgroundBorderless=90;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#spinnerDropDownItemStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#spinnerDropDownItemStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4921,11 +4922,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:spinnerDropDownItemStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:spinnerDropDownItemStyle
      */
     public static final int AppCompatTheme_spinnerDropDownItemStyle=91;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#spinnerStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#spinnerStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4933,11 +4934,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:spinnerStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:spinnerStyle
      */
     public static final int AppCompatTheme_spinnerStyle=92;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#switchStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#switchStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4945,11 +4946,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:switchStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:switchStyle
      */
     public static final int AppCompatTheme_switchStyle=93;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#textAppearanceLargePopupMenu}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#textAppearanceLargePopupMenu}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4957,11 +4958,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:textAppearanceLargePopupMenu
+     * @attr name com.indecis.tableauBord.bluetooth_communication:textAppearanceLargePopupMenu
      */
     public static final int AppCompatTheme_textAppearanceLargePopupMenu=94;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#textAppearanceListItem}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#textAppearanceListItem}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4969,11 +4970,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:textAppearanceListItem
+     * @attr name com.indecis.tableauBord.bluetooth_communication:textAppearanceListItem
      */
     public static final int AppCompatTheme_textAppearanceListItem=95;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#textAppearanceListItemSmall}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#textAppearanceListItemSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4981,11 +4982,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:textAppearanceListItemSmall
+     * @attr name com.indecis.tableauBord.bluetooth_communication:textAppearanceListItemSmall
      */
     public static final int AppCompatTheme_textAppearanceListItemSmall=96;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#textAppearancePopupMenuHeader}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#textAppearancePopupMenuHeader}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4993,11 +4994,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:textAppearancePopupMenuHeader
+     * @attr name com.indecis.tableauBord.bluetooth_communication:textAppearancePopupMenuHeader
      */
     public static final int AppCompatTheme_textAppearancePopupMenuHeader=97;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#textAppearanceSearchResultSubtitle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#textAppearanceSearchResultSubtitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5005,11 +5006,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:textAppearanceSearchResultSubtitle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:textAppearanceSearchResultSubtitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultSubtitle=98;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#textAppearanceSearchResultTitle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#textAppearanceSearchResultTitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5017,11 +5018,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:textAppearanceSearchResultTitle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:textAppearanceSearchResultTitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultTitle=99;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#textAppearanceSmallPopupMenu}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#textAppearanceSmallPopupMenu}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5029,11 +5030,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:textAppearanceSmallPopupMenu
+     * @attr name com.indecis.tableauBord.bluetooth_communication:textAppearanceSmallPopupMenu
      */
     public static final int AppCompatTheme_textAppearanceSmallPopupMenu=100;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#textColorAlertDialogListItem}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#textColorAlertDialogListItem}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5044,11 +5045,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:textColorAlertDialogListItem
+     * @attr name com.indecis.tableauBord.bluetooth_communication:textColorAlertDialogListItem
      */
     public static final int AppCompatTheme_textColorAlertDialogListItem=101;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#textColorSearchUrl}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#textColorSearchUrl}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5059,11 +5060,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:textColorSearchUrl
+     * @attr name com.indecis.tableauBord.bluetooth_communication:textColorSearchUrl
      */
     public static final int AppCompatTheme_textColorSearchUrl=102;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#toolbarNavigationButtonStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#toolbarNavigationButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5071,11 +5072,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:toolbarNavigationButtonStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:toolbarNavigationButtonStyle
      */
     public static final int AppCompatTheme_toolbarNavigationButtonStyle=103;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#toolbarStyle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#toolbarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5083,41 +5084,41 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:toolbarStyle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:toolbarStyle
      */
     public static final int AppCompatTheme_toolbarStyle=104;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#windowActionBar}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#windowActionBar}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.user.bluetooth_communication:windowActionBar
+     * @attr name com.indecis.tableauBord.bluetooth_communication:windowActionBar
      */
     public static final int AppCompatTheme_windowActionBar=105;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#windowActionBarOverlay}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#windowActionBarOverlay}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.user.bluetooth_communication:windowActionBarOverlay
+     * @attr name com.indecis.tableauBord.bluetooth_communication:windowActionBarOverlay
      */
     public static final int AppCompatTheme_windowActionBarOverlay=106;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#windowActionModeOverlay}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#windowActionModeOverlay}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.user.bluetooth_communication:windowActionModeOverlay
+     * @attr name com.indecis.tableauBord.bluetooth_communication:windowActionModeOverlay
      */
     public static final int AppCompatTheme_windowActionModeOverlay=107;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#windowFixedHeightMajor}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#windowFixedHeightMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5130,11 +5131,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.example.user.bluetooth_communication:windowFixedHeightMajor
+     * @attr name com.indecis.tableauBord.bluetooth_communication:windowFixedHeightMajor
      */
     public static final int AppCompatTheme_windowFixedHeightMajor=108;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#windowFixedHeightMinor}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#windowFixedHeightMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5147,11 +5148,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.example.user.bluetooth_communication:windowFixedHeightMinor
+     * @attr name com.indecis.tableauBord.bluetooth_communication:windowFixedHeightMinor
      */
     public static final int AppCompatTheme_windowFixedHeightMinor=109;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#windowFixedWidthMajor}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#windowFixedWidthMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5164,11 +5165,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.example.user.bluetooth_communication:windowFixedWidthMajor
+     * @attr name com.indecis.tableauBord.bluetooth_communication:windowFixedWidthMajor
      */
     public static final int AppCompatTheme_windowFixedWidthMajor=110;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#windowFixedWidthMinor}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#windowFixedWidthMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5181,11 +5182,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.example.user.bluetooth_communication:windowFixedWidthMinor
+     * @attr name com.indecis.tableauBord.bluetooth_communication:windowFixedWidthMinor
      */
     public static final int AppCompatTheme_windowFixedWidthMinor=111;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#windowMinWidthMajor}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#windowMinWidthMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5198,11 +5199,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.example.user.bluetooth_communication:windowMinWidthMajor
+     * @attr name com.indecis.tableauBord.bluetooth_communication:windowMinWidthMajor
      */
     public static final int AppCompatTheme_windowMinWidthMajor=112;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#windowMinWidthMinor}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#windowMinWidthMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5215,17 +5216,17 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.example.user.bluetooth_communication:windowMinWidthMinor
+     * @attr name com.indecis.tableauBord.bluetooth_communication:windowMinWidthMinor
      */
     public static final int AppCompatTheme_windowMinWidthMinor=113;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#windowNoTitle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#windowNoTitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.user.bluetooth_communication:windowNoTitle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:windowNoTitle
      */
     public static final int AppCompatTheme_windowNoTitle=114;
     /**
@@ -5235,7 +5236,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.example.user.bluetooth_communication:allowStacking}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.indecis.tableauBord.bluetooth_communication:allowStacking}</code></td><td></td></tr>
      * </table>
      * @see #ButtonBarLayout_allowStacking
      */
@@ -5243,13 +5244,13 @@ public final class R {
         0x7f020026
       };
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#allowStacking}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#allowStacking}
      * attribute's value can be found in the {@link #ButtonBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.user.bluetooth_communication:allowStacking
+     * @attr name com.indecis.tableauBord.bluetooth_communication:allowStacking
      */
     public static final int ButtonBarLayout_allowStacking=0;
     /**
@@ -5261,7 +5262,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ColorStateListItem_alpha com.example.user.bluetooth_communication:alpha}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ColorStateListItem_alpha com.indecis.tableauBord.bluetooth_communication:alpha}</code></td><td></td></tr>
      * </table>
      * @see #ColorStateListItem_android_color
      * @see #ColorStateListItem_android_alpha
@@ -5291,12 +5292,12 @@ public final class R {
      */
     public static final int ColorStateListItem_android_alpha=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#alpha}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#alpha}
      * attribute's value can be found in the {@link #ColorStateListItem} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.example.user.bluetooth_communication:alpha
+     * @attr name com.indecis.tableauBord.bluetooth_communication:alpha
      */
     public static final int ColorStateListItem_alpha=2;
     /**
@@ -5307,8 +5308,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTint com.example.user.bluetooth_communication:buttonTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.example.user.bluetooth_communication:buttonTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTint com.indecis.tableauBord.bluetooth_communication:buttonTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.indecis.tableauBord.bluetooth_communication:buttonTintMode}</code></td><td></td></tr>
      * </table>
      * @see #CompoundButton_android_button
      * @see #CompoundButton_buttonTint
@@ -5330,18 +5331,18 @@ public final class R {
      */
     public static final int CompoundButton_android_button=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#buttonTint}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#buttonTint}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:buttonTint
+     * @attr name com.indecis.tableauBord.bluetooth_communication:buttonTint
      */
     public static final int CompoundButton_buttonTint=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#buttonTintMode}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#buttonTintMode}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -5357,7 +5358,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.user.bluetooth_communication:buttonTintMode
+     * @attr name com.indecis.tableauBord.bluetooth_communication:buttonTintMode
      */
     public static final int CompoundButton_buttonTintMode=2;
     /**
@@ -5367,14 +5368,14 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.example.user.bluetooth_communication:arrowHeadLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.example.user.bluetooth_communication:arrowShaftLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.example.user.bluetooth_communication:barLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_color com.example.user.bluetooth_communication:color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.example.user.bluetooth_communication:drawableSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.example.user.bluetooth_communication:gapBetweenBars}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.example.user.bluetooth_communication:spinBars}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.example.user.bluetooth_communication:thickness}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.indecis.tableauBord.bluetooth_communication:arrowHeadLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.indecis.tableauBord.bluetooth_communication:arrowShaftLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.indecis.tableauBord.bluetooth_communication:barLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_color com.indecis.tableauBord.bluetooth_communication:color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.indecis.tableauBord.bluetooth_communication:drawableSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.indecis.tableauBord.bluetooth_communication:gapBetweenBars}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.indecis.tableauBord.bluetooth_communication:spinBars}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.indecis.tableauBord.bluetooth_communication:thickness}</code></td><td></td></tr>
      * </table>
      * @see #DrawerArrowToggle_arrowHeadLength
      * @see #DrawerArrowToggle_arrowShaftLength
@@ -5390,7 +5391,7 @@ public final class R {
         0x7f02005e, 0x7f020067, 0x7f0200a4, 0x7f0200c0
       };
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#arrowHeadLength}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#arrowHeadLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5399,11 +5400,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:arrowHeadLength
+     * @attr name com.indecis.tableauBord.bluetooth_communication:arrowHeadLength
      */
     public static final int DrawerArrowToggle_arrowHeadLength=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#arrowShaftLength}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#arrowShaftLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5412,11 +5413,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:arrowShaftLength
+     * @attr name com.indecis.tableauBord.bluetooth_communication:arrowShaftLength
      */
     public static final int DrawerArrowToggle_arrowShaftLength=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#barLength}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#barLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5425,22 +5426,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:barLength
+     * @attr name com.indecis.tableauBord.bluetooth_communication:barLength
      */
     public static final int DrawerArrowToggle_barLength=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#color}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#color}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:color
+     * @attr name com.indecis.tableauBord.bluetooth_communication:color
      */
     public static final int DrawerArrowToggle_color=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#drawableSize}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#drawableSize}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5449,11 +5450,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:drawableSize
+     * @attr name com.indecis.tableauBord.bluetooth_communication:drawableSize
      */
     public static final int DrawerArrowToggle_drawableSize=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#gapBetweenBars}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#gapBetweenBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5462,21 +5463,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:gapBetweenBars
+     * @attr name com.indecis.tableauBord.bluetooth_communication:gapBetweenBars
      */
     public static final int DrawerArrowToggle_gapBetweenBars=5;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#spinBars}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#spinBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.user.bluetooth_communication:spinBars
+     * @attr name com.indecis.tableauBord.bluetooth_communication:spinBars
      */
     public static final int DrawerArrowToggle_spinBars=6;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#thickness}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#thickness}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5485,7 +5486,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:thickness
+     * @attr name com.indecis.tableauBord.bluetooth_communication:thickness
      */
     public static final int DrawerArrowToggle_thickness=7;
     /**
@@ -5500,10 +5501,10 @@ public final class R {
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAligned android:baselineAligned}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAlignedChildIndex android:baselineAlignedChildIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_divider com.example.user.bluetooth_communication:divider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.example.user.bluetooth_communication:dividerPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.example.user.bluetooth_communication:measureWithLargestChild}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.example.user.bluetooth_communication:showDividers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_divider com.indecis.tableauBord.bluetooth_communication:divider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.indecis.tableauBord.bluetooth_communication:dividerPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.indecis.tableauBord.bluetooth_communication:measureWithLargestChild}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.indecis.tableauBord.bluetooth_communication:showDividers}</code></td><td></td></tr>
      * </table>
      * @see #LinearLayoutCompat_android_gravity
      * @see #LinearLayoutCompat_android_orientation
@@ -5595,7 +5596,7 @@ public final class R {
      */
     public static final int LinearLayoutCompat_android_weightSum=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#divider}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#divider}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5603,11 +5604,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:divider
+     * @attr name com.indecis.tableauBord.bluetooth_communication:divider
      */
     public static final int LinearLayoutCompat_divider=5;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#dividerPadding}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#dividerPadding}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5616,21 +5617,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:dividerPadding
+     * @attr name com.indecis.tableauBord.bluetooth_communication:dividerPadding
      */
     public static final int LinearLayoutCompat_dividerPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#measureWithLargestChild}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#measureWithLargestChild}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.user.bluetooth_communication:measureWithLargestChild
+     * @attr name com.indecis.tableauBord.bluetooth_communication:measureWithLargestChild
      */
     public static final int LinearLayoutCompat_measureWithLargestChild=7;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#showDividers}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#showDividers}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -5645,7 +5646,7 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.user.bluetooth_communication:showDividers
+     * @attr name com.indecis.tableauBord.bluetooth_communication:showDividers
      */
     public static final int LinearLayoutCompat_showDividers=8;
     /**
@@ -5917,10 +5918,10 @@ public final class R {
      * <tr><td><code>{@link #MenuItem_android_numericShortcut android:numericShortcut}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_onClick android:onClick}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionLayout com.example.user.bluetooth_communication:actionLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionProviderClass com.example.user.bluetooth_communication:actionProviderClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionViewClass com.example.user.bluetooth_communication:actionViewClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_showAsAction com.example.user.bluetooth_communication:showAsAction}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionLayout com.indecis.tableauBord.bluetooth_communication:actionLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionProviderClass com.indecis.tableauBord.bluetooth_communication:actionProviderClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionViewClass com.indecis.tableauBord.bluetooth_communication:actionViewClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_showAsAction com.indecis.tableauBord.bluetooth_communication:showAsAction}</code></td><td></td></tr>
      * </table>
      * @see #MenuItem_android_icon
      * @see #MenuItem_android_enabled
@@ -6090,7 +6091,7 @@ public final class R {
      */
     public static final int MenuItem_android_onClick=12;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#actionLayout}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#actionLayout}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6098,31 +6099,31 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:actionLayout
+     * @attr name com.indecis.tableauBord.bluetooth_communication:actionLayout
      */
     public static final int MenuItem_actionLayout=13;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#actionProviderClass}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#actionProviderClass}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.user.bluetooth_communication:actionProviderClass
+     * @attr name com.indecis.tableauBord.bluetooth_communication:actionProviderClass
      */
     public static final int MenuItem_actionProviderClass=14;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#actionViewClass}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#actionViewClass}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.user.bluetooth_communication:actionViewClass
+     * @attr name com.indecis.tableauBord.bluetooth_communication:actionViewClass
      */
     public static final int MenuItem_actionViewClass=15;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#showAsAction}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#showAsAction}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -6138,7 +6139,7 @@ public final class R {
      * <tr><td>withText</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.user.bluetooth_communication:showAsAction
+     * @attr name com.indecis.tableauBord.bluetooth_communication:showAsAction
      */
     public static final int MenuItem_showAsAction=16;
     /**
@@ -6155,8 +6156,8 @@ public final class R {
      * <tr><td><code>{@link #MenuView_android_headerBackground android:headerBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemBackground android:itemBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemIconDisabledAlpha android:itemIconDisabledAlpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.example.user.bluetooth_communication:preserveIconSpacing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_subMenuArrow com.example.user.bluetooth_communication:subMenuArrow}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.indecis.tableauBord.bluetooth_communication:preserveIconSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuView_subMenuArrow com.indecis.tableauBord.bluetooth_communication:subMenuArrow}</code></td><td></td></tr>
      * </table>
      * @see #MenuView_android_windowAnimationStyle
      * @see #MenuView_android_itemTextAppearance
@@ -6261,17 +6262,17 @@ public final class R {
      */
     public static final int MenuView_android_itemIconDisabledAlpha=6;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#preserveIconSpacing}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#preserveIconSpacing}
      * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.user.bluetooth_communication:preserveIconSpacing
+     * @attr name com.indecis.tableauBord.bluetooth_communication:preserveIconSpacing
      */
     public static final int MenuView_preserveIconSpacing=7;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#subMenuArrow}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#subMenuArrow}
      * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6279,7 +6280,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:subMenuArrow
+     * @attr name com.indecis.tableauBord.bluetooth_communication:subMenuArrow
      */
     public static final int MenuView_subMenuArrow=8;
     /**
@@ -6291,7 +6292,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.example.user.bluetooth_communication:overlapAnchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.indecis.tableauBord.bluetooth_communication:overlapAnchor}</code></td><td></td></tr>
      * </table>
      * @see #PopupWindow_android_popupBackground
      * @see #PopupWindow_android_popupAnimationStyle
@@ -6328,13 +6329,13 @@ public final class R {
      */
     public static final int PopupWindow_android_popupAnimationStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#overlapAnchor}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#overlapAnchor}
      * attribute's value can be found in the {@link #PopupWindow} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.user.bluetooth_communication:overlapAnchor
+     * @attr name com.indecis.tableauBord.bluetooth_communication:overlapAnchor
      */
     public static final int PopupWindow_overlapAnchor=2;
     /**
@@ -6344,7 +6345,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.example.user.bluetooth_communication:state_above_anchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.indecis.tableauBord.bluetooth_communication:state_above_anchor}</code></td><td></td></tr>
      * </table>
      * @see #PopupWindowBackgroundState_state_above_anchor
      */
@@ -6352,13 +6353,13 @@ public final class R {
         0x7f0200a9
       };
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#state_above_anchor}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#state_above_anchor}
      * attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.user.bluetooth_communication:state_above_anchor
+     * @attr name com.indecis.tableauBord.bluetooth_communication:state_above_anchor
      */
     public static final int PopupWindowBackgroundState_state_above_anchor=0;
     /**
@@ -6372,19 +6373,19 @@ public final class R {
      * <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_closeIcon com.example.user.bluetooth_communication:closeIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_commitIcon com.example.user.bluetooth_communication:commitIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_defaultQueryHint com.example.user.bluetooth_communication:defaultQueryHint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_goIcon com.example.user.bluetooth_communication:goIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.example.user.bluetooth_communication:iconifiedByDefault}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_layout com.example.user.bluetooth_communication:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_queryBackground com.example.user.bluetooth_communication:queryBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_queryHint com.example.user.bluetooth_communication:queryHint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_searchHintIcon com.example.user.bluetooth_communication:searchHintIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_searchIcon com.example.user.bluetooth_communication:searchIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_submitBackground com.example.user.bluetooth_communication:submitBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.example.user.bluetooth_communication:suggestionRowLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_voiceIcon com.example.user.bluetooth_communication:voiceIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_closeIcon com.indecis.tableauBord.bluetooth_communication:closeIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_commitIcon com.indecis.tableauBord.bluetooth_communication:commitIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_defaultQueryHint com.indecis.tableauBord.bluetooth_communication:defaultQueryHint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_goIcon com.indecis.tableauBord.bluetooth_communication:goIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.indecis.tableauBord.bluetooth_communication:iconifiedByDefault}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_layout com.indecis.tableauBord.bluetooth_communication:layout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_queryBackground com.indecis.tableauBord.bluetooth_communication:queryBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_queryHint com.indecis.tableauBord.bluetooth_communication:queryHint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_searchHintIcon com.indecis.tableauBord.bluetooth_communication:searchHintIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_searchIcon com.indecis.tableauBord.bluetooth_communication:searchIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_submitBackground com.indecis.tableauBord.bluetooth_communication:submitBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.indecis.tableauBord.bluetooth_communication:suggestionRowLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_voiceIcon com.indecis.tableauBord.bluetooth_communication:voiceIcon}</code></td><td></td></tr>
      * </table>
      * @see #SearchView_android_focusable
      * @see #SearchView_android_maxWidth
@@ -6513,7 +6514,7 @@ public final class R {
      */
     public static final int SearchView_android_imeOptions=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#closeIcon}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#closeIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6521,11 +6522,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:closeIcon
+     * @attr name com.indecis.tableauBord.bluetooth_communication:closeIcon
      */
     public static final int SearchView_closeIcon=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#commitIcon}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#commitIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6533,21 +6534,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:commitIcon
+     * @attr name com.indecis.tableauBord.bluetooth_communication:commitIcon
      */
     public static final int SearchView_commitIcon=5;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#defaultQueryHint}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#defaultQueryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.user.bluetooth_communication:defaultQueryHint
+     * @attr name com.indecis.tableauBord.bluetooth_communication:defaultQueryHint
      */
     public static final int SearchView_defaultQueryHint=6;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#goIcon}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#goIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6555,21 +6556,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:goIcon
+     * @attr name com.indecis.tableauBord.bluetooth_communication:goIcon
      */
     public static final int SearchView_goIcon=7;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#iconifiedByDefault}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#iconifiedByDefault}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.user.bluetooth_communication:iconifiedByDefault
+     * @attr name com.indecis.tableauBord.bluetooth_communication:iconifiedByDefault
      */
     public static final int SearchView_iconifiedByDefault=8;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#layout}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#layout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6577,11 +6578,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:layout
+     * @attr name com.indecis.tableauBord.bluetooth_communication:layout
      */
     public static final int SearchView_layout=9;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#queryBackground}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#queryBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6589,21 +6590,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:queryBackground
+     * @attr name com.indecis.tableauBord.bluetooth_communication:queryBackground
      */
     public static final int SearchView_queryBackground=10;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#queryHint}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#queryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.user.bluetooth_communication:queryHint
+     * @attr name com.indecis.tableauBord.bluetooth_communication:queryHint
      */
     public static final int SearchView_queryHint=11;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#searchHintIcon}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#searchHintIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6611,11 +6612,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:searchHintIcon
+     * @attr name com.indecis.tableauBord.bluetooth_communication:searchHintIcon
      */
     public static final int SearchView_searchHintIcon=12;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#searchIcon}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#searchIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6623,11 +6624,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:searchIcon
+     * @attr name com.indecis.tableauBord.bluetooth_communication:searchIcon
      */
     public static final int SearchView_searchIcon=13;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#submitBackground}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#submitBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6635,11 +6636,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:submitBackground
+     * @attr name com.indecis.tableauBord.bluetooth_communication:submitBackground
      */
     public static final int SearchView_submitBackground=14;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#suggestionRowLayout}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#suggestionRowLayout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6647,11 +6648,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:suggestionRowLayout
+     * @attr name com.indecis.tableauBord.bluetooth_communication:suggestionRowLayout
      */
     public static final int SearchView_suggestionRowLayout=15;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#voiceIcon}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#voiceIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6659,7 +6660,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:voiceIcon
+     * @attr name com.indecis.tableauBord.bluetooth_communication:voiceIcon
      */
     public static final int SearchView_voiceIcon=16;
     /**
@@ -6673,7 +6674,7 @@ public final class R {
      * <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Spinner_popupTheme com.example.user.bluetooth_communication:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Spinner_popupTheme com.indecis.tableauBord.bluetooth_communication:popupTheme}</code></td><td></td></tr>
      * </table>
      * @see #Spinner_android_entries
      * @see #Spinner_android_popupBackground
@@ -6748,7 +6749,7 @@ public final class R {
      */
     public static final int Spinner_android_dropDownWidth=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Spinner} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6756,7 +6757,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:popupTheme
+     * @attr name com.indecis.tableauBord.bluetooth_communication:popupTheme
      */
     public static final int Spinner_popupTheme=4;
     /**
@@ -6769,17 +6770,17 @@ public final class R {
      * <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_showText com.example.user.bluetooth_communication:showText}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_splitTrack com.example.user.bluetooth_communication:splitTrack}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.example.user.bluetooth_communication:switchMinWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchPadding com.example.user.bluetooth_communication:switchPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.example.user.bluetooth_communication:switchTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.example.user.bluetooth_communication:thumbTextPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTint com.example.user.bluetooth_communication:thumbTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.example.user.bluetooth_communication:thumbTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_track com.example.user.bluetooth_communication:track}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTint com.example.user.bluetooth_communication:trackTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.example.user.bluetooth_communication:trackTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_showText com.indecis.tableauBord.bluetooth_communication:showText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_splitTrack com.indecis.tableauBord.bluetooth_communication:splitTrack}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.indecis.tableauBord.bluetooth_communication:switchMinWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchPadding com.indecis.tableauBord.bluetooth_communication:switchPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.indecis.tableauBord.bluetooth_communication:switchTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.indecis.tableauBord.bluetooth_communication:thumbTextPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTint com.indecis.tableauBord.bluetooth_communication:thumbTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.indecis.tableauBord.bluetooth_communication:thumbTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_track com.indecis.tableauBord.bluetooth_communication:track}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTint com.indecis.tableauBord.bluetooth_communication:trackTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.indecis.tableauBord.bluetooth_communication:trackTintMode}</code></td><td></td></tr>
      * </table>
      * @see #SwitchCompat_android_textOn
      * @see #SwitchCompat_android_textOff
@@ -6835,27 +6836,27 @@ public final class R {
      */
     public static final int SwitchCompat_android_thumb=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#showText}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#showText}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.user.bluetooth_communication:showText
+     * @attr name com.indecis.tableauBord.bluetooth_communication:showText
      */
     public static final int SwitchCompat_showText=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#splitTrack}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#splitTrack}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.user.bluetooth_communication:splitTrack
+     * @attr name com.indecis.tableauBord.bluetooth_communication:splitTrack
      */
     public static final int SwitchCompat_splitTrack=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#switchMinWidth}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#switchMinWidth}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6864,11 +6865,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:switchMinWidth
+     * @attr name com.indecis.tableauBord.bluetooth_communication:switchMinWidth
      */
     public static final int SwitchCompat_switchMinWidth=5;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#switchPadding}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#switchPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6877,11 +6878,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:switchPadding
+     * @attr name com.indecis.tableauBord.bluetooth_communication:switchPadding
      */
     public static final int SwitchCompat_switchPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#switchTextAppearance}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#switchTextAppearance}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6889,11 +6890,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:switchTextAppearance
+     * @attr name com.indecis.tableauBord.bluetooth_communication:switchTextAppearance
      */
     public static final int SwitchCompat_switchTextAppearance=7;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#thumbTextPadding}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#thumbTextPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6902,22 +6903,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:thumbTextPadding
+     * @attr name com.indecis.tableauBord.bluetooth_communication:thumbTextPadding
      */
     public static final int SwitchCompat_thumbTextPadding=8;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#thumbTint}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#thumbTint}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:thumbTint
+     * @attr name com.indecis.tableauBord.bluetooth_communication:thumbTint
      */
     public static final int SwitchCompat_thumbTint=9;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#thumbTintMode}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#thumbTintMode}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -6934,11 +6935,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.user.bluetooth_communication:thumbTintMode
+     * @attr name com.indecis.tableauBord.bluetooth_communication:thumbTintMode
      */
     public static final int SwitchCompat_thumbTintMode=10;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#track}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#track}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6946,22 +6947,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:track
+     * @attr name com.indecis.tableauBord.bluetooth_communication:track
      */
     public static final int SwitchCompat_track=11;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#trackTint}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#trackTint}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:trackTint
+     * @attr name com.indecis.tableauBord.bluetooth_communication:trackTint
      */
     public static final int SwitchCompat_trackTint=12;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#trackTintMode}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#trackTintMode}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -6978,7 +6979,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.user.bluetooth_communication:trackTintMode
+     * @attr name com.indecis.tableauBord.bluetooth_communication:trackTintMode
      */
     public static final int SwitchCompat_trackTintMode=13;
     /**
@@ -6996,7 +6997,7 @@ public final class R {
      * <tr><td><code>{@link #TextAppearance_android_shadowDx android:shadowDx}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_shadowDy android:shadowDy}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_shadowRadius android:shadowRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_textAllCaps com.example.user.bluetooth_communication:textAllCaps}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextAppearance_textAllCaps com.indecis.tableauBord.bluetooth_communication:textAllCaps}</code></td><td></td></tr>
      * </table>
      * @see #TextAppearance_android_textSize
      * @see #TextAppearance_android_typeface
@@ -7117,7 +7118,7 @@ public final class R {
      */
     public static final int TextAppearance_android_shadowRadius=7;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7127,7 +7128,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.example.user.bluetooth_communication:textAllCaps
+     * @attr name com.indecis.tableauBord.bluetooth_communication:textAllCaps
      */
     public static final int TextAppearance_textAllCaps=8;
     /**
@@ -7139,33 +7140,33 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
      * <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_buttonGravity com.example.user.bluetooth_communication:buttonGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.example.user.bluetooth_communication:collapseContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseIcon com.example.user.bluetooth_communication:collapseIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.example.user.bluetooth_communication:contentInsetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.example.user.bluetooth_communication:contentInsetEndWithActions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.example.user.bluetooth_communication:contentInsetLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetRight com.example.user.bluetooth_communication:contentInsetRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStart com.example.user.bluetooth_communication:contentInsetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.example.user.bluetooth_communication:contentInsetStartWithNavigation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_logo com.example.user.bluetooth_communication:logo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_logoDescription com.example.user.bluetooth_communication:logoDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.example.user.bluetooth_communication:maxButtonHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.example.user.bluetooth_communication:navigationContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationIcon com.example.user.bluetooth_communication:navigationIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_popupTheme com.example.user.bluetooth_communication:popupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitle com.example.user.bluetooth_communication:subtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.example.user.bluetooth_communication:subtitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.example.user.bluetooth_communication:subtitleTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_title com.example.user.bluetooth_communication:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargin com.example.user.bluetooth_communication:titleMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.example.user.bluetooth_communication:titleMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.example.user.bluetooth_communication:titleMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginStart com.example.user.bluetooth_communication:titleMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginTop com.example.user.bluetooth_communication:titleMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargins com.example.user.bluetooth_communication:titleMargins}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.example.user.bluetooth_communication:titleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextColor com.example.user.bluetooth_communication:titleTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_buttonGravity com.indecis.tableauBord.bluetooth_communication:buttonGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.indecis.tableauBord.bluetooth_communication:collapseContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseIcon com.indecis.tableauBord.bluetooth_communication:collapseIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.indecis.tableauBord.bluetooth_communication:contentInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.indecis.tableauBord.bluetooth_communication:contentInsetEndWithActions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.indecis.tableauBord.bluetooth_communication:contentInsetLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetRight com.indecis.tableauBord.bluetooth_communication:contentInsetRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStart com.indecis.tableauBord.bluetooth_communication:contentInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.indecis.tableauBord.bluetooth_communication:contentInsetStartWithNavigation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_logo com.indecis.tableauBord.bluetooth_communication:logo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_logoDescription com.indecis.tableauBord.bluetooth_communication:logoDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.indecis.tableauBord.bluetooth_communication:maxButtonHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.indecis.tableauBord.bluetooth_communication:navigationContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationIcon com.indecis.tableauBord.bluetooth_communication:navigationIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_popupTheme com.indecis.tableauBord.bluetooth_communication:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitle com.indecis.tableauBord.bluetooth_communication:subtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.indecis.tableauBord.bluetooth_communication:subtitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.indecis.tableauBord.bluetooth_communication:subtitleTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_title com.indecis.tableauBord.bluetooth_communication:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargin com.indecis.tableauBord.bluetooth_communication:titleMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.indecis.tableauBord.bluetooth_communication:titleMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.indecis.tableauBord.bluetooth_communication:titleMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginStart com.indecis.tableauBord.bluetooth_communication:titleMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginTop com.indecis.tableauBord.bluetooth_communication:titleMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargins com.indecis.tableauBord.bluetooth_communication:titleMargins}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.indecis.tableauBord.bluetooth_communication:titleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextColor com.indecis.tableauBord.bluetooth_communication:titleTextColor}</code></td><td></td></tr>
      * </table>
      * @see #Toolbar_android_gravity
      * @see #Toolbar_android_minHeight
@@ -7250,7 +7251,7 @@ public final class R {
      */
     public static final int Toolbar_android_minHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#buttonGravity}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#buttonGravity}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -7263,21 +7264,21 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.user.bluetooth_communication:buttonGravity
+     * @attr name com.indecis.tableauBord.bluetooth_communication:buttonGravity
      */
     public static final int Toolbar_buttonGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#collapseContentDescription}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#collapseContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.user.bluetooth_communication:collapseContentDescription
+     * @attr name com.indecis.tableauBord.bluetooth_communication:collapseContentDescription
      */
     public static final int Toolbar_collapseContentDescription=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#collapseIcon}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#collapseIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7285,11 +7286,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:collapseIcon
+     * @attr name com.indecis.tableauBord.bluetooth_communication:collapseIcon
      */
     public static final int Toolbar_collapseIcon=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#contentInsetEnd}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7298,11 +7299,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:contentInsetEnd
+     * @attr name com.indecis.tableauBord.bluetooth_communication:contentInsetEnd
      */
     public static final int Toolbar_contentInsetEnd=5;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#contentInsetEndWithActions}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#contentInsetEndWithActions}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7311,11 +7312,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:contentInsetEndWithActions
+     * @attr name com.indecis.tableauBord.bluetooth_communication:contentInsetEndWithActions
      */
     public static final int Toolbar_contentInsetEndWithActions=6;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#contentInsetLeft}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7324,11 +7325,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:contentInsetLeft
+     * @attr name com.indecis.tableauBord.bluetooth_communication:contentInsetLeft
      */
     public static final int Toolbar_contentInsetLeft=7;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#contentInsetRight}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7337,11 +7338,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:contentInsetRight
+     * @attr name com.indecis.tableauBord.bluetooth_communication:contentInsetRight
      */
     public static final int Toolbar_contentInsetRight=8;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#contentInsetStart}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7350,11 +7351,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:contentInsetStart
+     * @attr name com.indecis.tableauBord.bluetooth_communication:contentInsetStart
      */
     public static final int Toolbar_contentInsetStart=9;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#contentInsetStartWithNavigation}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#contentInsetStartWithNavigation}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7363,11 +7364,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:contentInsetStartWithNavigation
+     * @attr name com.indecis.tableauBord.bluetooth_communication:contentInsetStartWithNavigation
      */
     public static final int Toolbar_contentInsetStartWithNavigation=10;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#logo}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#logo}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7375,21 +7376,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:logo
+     * @attr name com.indecis.tableauBord.bluetooth_communication:logo
      */
     public static final int Toolbar_logo=11;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#logoDescription}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#logoDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.user.bluetooth_communication:logoDescription
+     * @attr name com.indecis.tableauBord.bluetooth_communication:logoDescription
      */
     public static final int Toolbar_logoDescription=12;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#maxButtonHeight}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#maxButtonHeight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7398,21 +7399,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:maxButtonHeight
+     * @attr name com.indecis.tableauBord.bluetooth_communication:maxButtonHeight
      */
     public static final int Toolbar_maxButtonHeight=13;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#navigationContentDescription}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#navigationContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.user.bluetooth_communication:navigationContentDescription
+     * @attr name com.indecis.tableauBord.bluetooth_communication:navigationContentDescription
      */
     public static final int Toolbar_navigationContentDescription=14;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#navigationIcon}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#navigationIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7420,11 +7421,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:navigationIcon
+     * @attr name com.indecis.tableauBord.bluetooth_communication:navigationIcon
      */
     public static final int Toolbar_navigationIcon=15;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7432,21 +7433,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:popupTheme
+     * @attr name com.indecis.tableauBord.bluetooth_communication:popupTheme
      */
     public static final int Toolbar_popupTheme=16;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#subtitle}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#subtitle}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.user.bluetooth_communication:subtitle
+     * @attr name com.indecis.tableauBord.bluetooth_communication:subtitle
      */
     public static final int Toolbar_subtitle=17;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#subtitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#subtitleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7454,32 +7455,32 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:subtitleTextAppearance
+     * @attr name com.indecis.tableauBord.bluetooth_communication:subtitleTextAppearance
      */
     public static final int Toolbar_subtitleTextAppearance=18;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#subtitleTextColor}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#subtitleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:subtitleTextColor
+     * @attr name com.indecis.tableauBord.bluetooth_communication:subtitleTextColor
      */
     public static final int Toolbar_subtitleTextColor=19;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#title}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.example.user.bluetooth_communication:title
+     * @attr name com.indecis.tableauBord.bluetooth_communication:title
      */
     public static final int Toolbar_title=20;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#titleMargin}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#titleMargin}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7488,11 +7489,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:titleMargin
+     * @attr name com.indecis.tableauBord.bluetooth_communication:titleMargin
      */
     public static final int Toolbar_titleMargin=21;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#titleMarginBottom}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#titleMarginBottom}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7501,11 +7502,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:titleMarginBottom
+     * @attr name com.indecis.tableauBord.bluetooth_communication:titleMarginBottom
      */
     public static final int Toolbar_titleMarginBottom=22;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#titleMarginEnd}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#titleMarginEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7514,11 +7515,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:titleMarginEnd
+     * @attr name com.indecis.tableauBord.bluetooth_communication:titleMarginEnd
      */
     public static final int Toolbar_titleMarginEnd=23;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#titleMarginStart}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#titleMarginStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7527,11 +7528,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:titleMarginStart
+     * @attr name com.indecis.tableauBord.bluetooth_communication:titleMarginStart
      */
     public static final int Toolbar_titleMarginStart=24;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#titleMarginTop}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#titleMarginTop}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7540,11 +7541,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:titleMarginTop
+     * @attr name com.indecis.tableauBord.bluetooth_communication:titleMarginTop
      */
     public static final int Toolbar_titleMarginTop=25;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#titleMargins}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#titleMargins}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7553,11 +7554,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:titleMargins
+     * @attr name com.indecis.tableauBord.bluetooth_communication:titleMargins
      */
     public static final int Toolbar_titleMargins=26;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#titleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#titleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7565,18 +7566,18 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:titleTextAppearance
+     * @attr name com.indecis.tableauBord.bluetooth_communication:titleTextAppearance
      */
     public static final int Toolbar_titleTextAppearance=27;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#titleTextColor}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#titleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:titleTextColor
+     * @attr name com.indecis.tableauBord.bluetooth_communication:titleTextColor
      */
     public static final int Toolbar_titleTextColor=28;
     /**
@@ -7588,9 +7589,9 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
      * <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingEnd com.example.user.bluetooth_communication:paddingEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingStart com.example.user.bluetooth_communication:paddingStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_theme com.example.user.bluetooth_communication:theme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_paddingEnd com.indecis.tableauBord.bluetooth_communication:paddingEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_paddingStart com.indecis.tableauBord.bluetooth_communication:paddingStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_theme com.indecis.tableauBord.bluetooth_communication:theme}</code></td><td></td></tr>
      * </table>
      * @see #View_android_theme
      * @see #View_android_focusable
@@ -7625,7 +7626,7 @@ public final class R {
      */
     public static final int View_android_focusable=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#paddingEnd}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#paddingEnd}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7634,11 +7635,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:paddingEnd
+     * @attr name com.indecis.tableauBord.bluetooth_communication:paddingEnd
      */
     public static final int View_paddingEnd=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#paddingStart}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#paddingStart}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7647,11 +7648,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.example.user.bluetooth_communication:paddingStart
+     * @attr name com.indecis.tableauBord.bluetooth_communication:paddingStart
      */
     public static final int View_paddingStart=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#theme}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#theme}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7659,7 +7660,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:theme
+     * @attr name com.indecis.tableauBord.bluetooth_communication:theme
      */
     public static final int View_theme=4;
     /**
@@ -7670,8 +7671,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.example.user.bluetooth_communication:backgroundTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.example.user.bluetooth_communication:backgroundTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.indecis.tableauBord.bluetooth_communication:backgroundTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.indecis.tableauBord.bluetooth_communication:backgroundTintMode}</code></td><td></td></tr>
      * </table>
      * @see #ViewBackgroundHelper_android_background
      * @see #ViewBackgroundHelper_backgroundTint
@@ -7696,18 +7697,18 @@ public final class R {
      */
     public static final int ViewBackgroundHelper_android_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#backgroundTint}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#backgroundTint}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.example.user.bluetooth_communication:backgroundTint
+     * @attr name com.indecis.tableauBord.bluetooth_communication:backgroundTint
      */
     public static final int ViewBackgroundHelper_backgroundTint=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.user.bluetooth_communication.R.attr#backgroundTintMode}
+     * <p>This symbol is the offset where the {@link com.indecis.tableauBord.bluetooth_communication.R.attr#backgroundTintMode}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7723,7 +7724,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.example.user.bluetooth_communication:backgroundTintMode
+     * @attr name com.indecis.tableauBord.bluetooth_communication:backgroundTintMode
      */
     public static final int ViewBackgroundHelper_backgroundTintMode=2;
     /**

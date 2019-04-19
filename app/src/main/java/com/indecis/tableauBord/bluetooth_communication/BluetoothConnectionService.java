@@ -13,6 +13,7 @@ import java.io.InputStream;
 import java.io.OutputStream;
 import java.nio.charset.Charset;
 import java.util.UUID;
+import com.indecis.tableauBord.services.*;
 
 public class BluetoothConnectionService {
     private static final String TAG = "BluetoothConnectionServ";
@@ -242,7 +243,7 @@ public class BluetoothConnectionService {
 
         public void run(){
             byte[] buffer = new byte[1024];  // buffer store for the stream
-
+            reportService reportService = new reportService();
             int bytes; // bytes returned from read()
 
             // Keep listening to the InputStream until an exception occurs
@@ -252,6 +253,12 @@ public class BluetoothConnectionService {
                     bytes = mmInStream.read(buffer);
                     String incomingMessage = new String(buffer, 0, bytes);
                     Log.d(TAG, "InputStream: " + incomingMessage);
+                    if(incomingMessage.startsWith("report")){
+                        String[] parts = incomingMessage.split("#");
+                        String json = parts[1]; // 034556
+                        Log.d(TAG,json);
+                        reportService.buildReport(json);
+                    }
                 } catch (IOException e) {
                     Log.e(TAG, "write: Error reading Input Stream. " + e.getMessage() );
                     break;

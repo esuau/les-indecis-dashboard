@@ -8,6 +8,8 @@ import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.TextView;
 
+import com.example.user.bluetooth_communication.R;
+
 import java.util.ArrayList;
 
 

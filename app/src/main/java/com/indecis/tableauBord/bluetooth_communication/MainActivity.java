@@ -19,9 +19,13 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ListView;
 
+import com.example.user.bluetooth_communication.R;
+
 import java.nio.charset.Charset;
 import java.util.ArrayList;
 import java.util.UUID;
+
+
 
 
 public class MainActivity extends AppCompatActivity implements AdapterView.OnItemClickListener{
@@ -186,6 +190,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         btnEnableDisable_Discoverable = (Button) findViewById(R.id.btnDiscoverable_on_off);
         lvNewDevices = (ListView) findViewById(R.id.lvNewDevices);
         mBTDevices = new ArrayList<>();
+        Button btnStopCourse = (Button) findViewById(R.id.btnStopCourse);
 
         btnStartConnection = (Button) findViewById(R.id.btnStartConnection);
         btnSend = (Button) findViewById(R.id.btnSend);
@@ -219,6 +224,16 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
             @Override
             public void onClick(View view) {
                 byte[] bytes = etSend.getText().toString().getBytes(Charset.defaultCharset());
+                System.out.println(bytes);
+                mBluetoothConnection.write(bytes);
+            }
+        });
+
+        btnStopCourse.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                String stop = "stop";
+                byte[] bytes = stop.getBytes(Charset.defaultCharset());
                 System.out.println(bytes);
                 mBluetoothConnection.write(bytes);
             }
@@ -278,6 +293,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
 
     }
 
+    @RequiresApi(api = Build.VERSION_CODES.M)
     public void btnDiscover(View view) {
         Log.d(TAG, "btnDiscover: Looking for unpaired devices.");
 

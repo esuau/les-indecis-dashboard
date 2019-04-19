@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/nassimhammadi/Downloads/Sending-and-Receiving-Data-with-Bluetooth-master/Bluetooth-Communication/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es/values-es.xml",
+            "outputFile": "/Users/nassimhammadi/Downloads/PDS/les-indecis-tableau-de-bord/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es/values-es.xml",
             "map": [
                 {
                     "source": "/Users/nassimhammadi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/6e268ffca56652f822b2385d9c557be0/res/values-es/values-es.xml",
