@@ -17,7 +17,7 @@ INJECTED from /Users/nassimhammadi/Downloads/PDS/les-indecis-tableau-de-bord/app
 INJECTED from /Users/nassimhammadi/Downloads/PDS/les-indecis-tableau-de-bord/app/src/main/AndroidManifest.xml:2:1-28:12
 INJECTED from /Users/nassimhammadi/Downloads/PDS/les-indecis-tableau-de-bord/app/src/main/AndroidManifest.xml:2:1-28:12
 	package
-		ADDED from /Users/nassimhammadi/Downloads/PDS/les-indecis-tableau-de-bord/app/src/main/AndroidManifest.xml:3:11-61
+		ADDED from /Users/nassimhammadi/Downloads/PDS/les-indecis-tableau-de-bord/app/src/main/AndroidManifest.xml:3:11-68
 		INJECTED from /Users/nassimhammadi/Downloads/PDS/les-indecis-tableau-de-bord/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/nassimhammadi/Downloads/PDS/les-indecis-tableau-de-bord/app/src/main/AndroidManifest.xml
 	android:versionName

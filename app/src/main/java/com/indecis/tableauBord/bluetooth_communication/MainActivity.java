@@ -19,8 +19,6 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ListView;
 
-import com.example.user.bluetooth_communication.R;
-
 import java.nio.charset.Charset;
 import java.util.ArrayList;
 import java.util.UUID;

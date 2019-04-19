@@ -1,0 +1,4 @@
+#Fri Apr 19 12:37:24 CEST 2019
+base.0=/Users/nassimhammadi/Downloads/PDS/les-indecis-tableau-de-bord/app/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex
